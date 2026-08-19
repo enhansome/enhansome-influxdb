@@ -374,10 +374,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T16:57:38Z",
+            "last_commit": "2026-08-18T20:22:13Z",
             "owner": "grafana",
             "repo": "k6",
-            "stars": 31273
+            "stars": 31278
           }
         },
         {
@@ -388,10 +388,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-17T22:02:01Z",
+            "last_commit": "2026-08-19T00:13:51Z",
             "owner": "influxdata",
             "repo": "telegraf",
-            "stars": 17756
+            "stars": 17757
           }
         },
         {
@@ -700,10 +700,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T06:13:31Z",
+            "last_commit": "2026-08-18T11:20:49Z",
             "owner": "nicolargo",
             "repo": "glances",
-            "stars": 33368
+            "stars": 33374
           }
         },
         {
@@ -717,7 +717,7 @@
             "last_commit": "2026-07-20T21:23:51Z",
             "owner": "google",
             "repo": "cadvisor",
-            "stars": 19365
+            "stars": 19366
           }
         },
         {
@@ -882,7 +882,7 @@
           "repo_info": {
             "archived": false,
             "language": "PHP",
-            "last_commit": "2026-08-18T04:07:57Z",
+            "last_commit": "2026-08-18T15:37:40Z",
             "owner": "centreon",
             "repo": "centreon",
             "stars": 162
@@ -1335,10 +1335,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T03:58:06Z",
+            "last_commit": "2026-08-19T03:53:52Z",
             "owner": "grafana",
             "repo": "grafana",
-            "stars": 76260
+            "stars": 76297
           }
         },
         {
@@ -1720,10 +1720,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-16T12:09:33Z",
+            "last_commit": "2026-08-19T03:38:37Z",
             "owner": "avelino",
             "repo": "awesome-go",
-            "stars": 181344
+            "stars": 181457
           }
         },
         {
@@ -1751,7 +1751,7 @@
             "last_commit": "2026-07-31T12:51:12Z",
             "owner": "oxnr",
             "repo": "awesome-bigdata",
-            "stars": 14531
+            "stars": 14532
           }
         },
         {
@@ -1765,7 +1765,7 @@
             "last_commit": "2026-06-10T15:05:12Z",
             "owner": "mfornos",
             "repo": "awesome-microservices",
-            "stars": 14480
+            "stars": 14483
           }
         },
         {
@@ -1779,7 +1779,7 @@
             "last_commit": "2026-07-18T15:19:21Z",
             "owner": "igorbarinov",
             "repo": "awesome-data-engineering",
-            "stars": 8956
+            "stars": 8959
           }
         },
         {
@@ -1793,7 +1793,7 @@
             "last_commit": "2026-08-14T06:36:15Z",
             "owner": "frenck",
             "repo": "awesome-home-assistant",
-            "stars": 8339
+            "stars": 8345
           }
         },
         {
@@ -1838,10 +1838,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-06-30T18:21:16Z",
+            "last_commit": "2026-08-18T13:28:50Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 497059
+            "stars": 497490
           }
         },
         {
@@ -1855,7 +1855,7 @@
             "last_commit": "2026-03-23T20:19:22Z",
             "owner": "jnv",
             "repo": "lists",
-            "stars": 11425
+            "stars": 11422
           }
         }
       ],
@@ -1868,7 +1868,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T04:18:04.256Z",
+    "last_updated": "2026-08-19T04:18:36.864Z",
     "original_repository": "mark-rushakoff/awesome-influxdb",
     "original_repository_sha": "7e22981080cb08302ed3da861d6b12ec31aec88f",
     "enhanced_repository": "enhansome/enhansome-influxdb",
