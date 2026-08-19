@@ -1,1494 +1,1584 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Python",
+              "description": "Python client for InfluxDB",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 14151539,
+                "language": "Python",
+                "last_commit": "2024-10-29T15:54:14Z",
+                "owner": "influxdata",
+                "repo": "influxdb-python",
+                "stars": 1693
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Java",
+              "description": "Java client for InfluxDB",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 19323986,
+                "language": "Java",
+                "last_commit": "2026-03-01T14:48:38Z",
+                "owner": "influxdata",
+                "repo": "influxdb-java",
+                "stars": 1196
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PHP",
+              "description": "PHP client for InfluxDB",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 14237621,
+                "language": "PHP",
+                "last_commit": "2022-11-15T21:22:35Z",
+                "owner": "influxdata",
+                "repo": "influxdb-php",
+                "stars": 426
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ruby",
+              "description": "Ruby client for InfluxDB",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 13937936,
+                "language": "Ruby",
+                "last_commit": "2022-06-20T11:16:05Z",
+                "owner": "InfluxCommunity",
+                "repo": "influxdb-ruby",
+                "stars": 371
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "C#",
+              "description": "A .NET library for efficiently sending points to InfluxDB",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 41903325,
+                "language": "C#",
+                "last_commit": "2023-07-18T21:20:54Z",
+                "owner": "influxdata",
+                "repo": "influxdb-csharp",
+                "stars": 198
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Go",
+              "description": "Go client for InfluxDB 1.x",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 165437702,
+                "language": "Go",
+                "last_commit": "2024-03-12T10:54:59Z",
+                "owner": "influxdata",
+                "repo": "influxdb1-client",
+                "stars": 192
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Rails",
+              "description": "Ruby on Rails bindings to automatically write metrics into InfluxDB",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 963316061,
+                "language": "Ruby",
+                "last_commit": "2025-04-10T14:27:50Z",
+                "owner": "influxdata",
+                "repo": "influxdb-rails",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Official"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "node-influx",
+              "description": "InfluxDB Node.js Client",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14216341,
+                "language": "TypeScript",
+                "last_commit": "2026-05-28T03:16:07Z",
+                "owner": "node-influx",
+                "repo": "node-influx",
+                "stars": 864
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "InfluxDB-Client-for-Arduino",
+              "description": "Arduino client for InfluxDB",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 138654012,
+                "language": "C++",
+                "last_commit": "2026-06-09T08:58:01Z",
+                "owner": "tobiasschuerg",
+                "repo": "InfluxDB-Client-for-Arduino",
+                "stars": 415
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "instream",
+              "description": "InfluxDB driver for Elixir",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 30618609,
+                "language": "Elixir",
+                "last_commit": "2025-10-12T09:52:38Z",
+                "owner": "mneudert",
+                "repo": "instream",
+                "stars": 228
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "InfluxDB.NET",
+              "description": ".NET client for InfluxDB",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 23766165,
+                "language": "C#",
+                "last_commit": "2022-06-22T15:19:09Z",
+                "owner": "bugthesystem",
+                "repo": "InfluxDB.Net",
+                "stars": 163
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "scala-influxdb-client",
+              "description": "Asynchronous InfluxDB client for Scala",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 43214157,
+                "language": "Scala",
+                "last_commit": "2019-08-23T09:36:59Z",
+                "owner": "paulgoldbaum",
+                "repo": "scala-influxdb-client",
+                "stars": 122
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "fluxter",
+              "description": "An InfluxDB writer for Elixir",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 52401197,
+                "language": "Elixir",
+                "last_commit": "2025-05-21T11:48:32Z",
+                "owner": "lexmag",
+                "repo": "fluxter",
+                "stars": 106
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "influxdbr",
+              "description": "R library for InfluxDB",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 38740362,
+                "language": "R",
+                "last_commit": "2024-08-09T06:54:51Z",
+                "owner": "dleutnant",
+                "repo": "influxdbr",
+                "stars": 92
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "InfluxDB PHP SDK",
+              "description": "UDP/IP or HTTP adapters for read and write data",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 23869671,
+                "language": "PHP",
+                "last_commit": "2019-06-03T02:30:45Z",
+                "owner": "corley-archive",
+                "repo": "influxdb-php-sdk",
+                "stars": 84
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "capacitor",
+              "description": "A Clojure client for InfluxDB",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 14461306,
+                "language": "Clojure",
+                "last_commit": "2018-12-04T18:56:29Z",
+                "owner": "olauzon",
+                "repo": "capacitor",
+                "stars": 63
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "influxdb-haskell",
+              "description": "Haskell client library for InfluxDB",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 17610492,
+                "language": "Haskell",
+                "last_commit": "2024-07-12T14:16:56Z",
+                "owner": "maoe",
+                "repo": "influxdb-haskell",
+                "stars": 55
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "influxdb-cpp-rest",
+              "description": "A C++ InfluxDB client with a batching async interface",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 72242525,
+                "language": "C++",
+                "last_commit": "2025-11-26T13:57:41Z",
+                "owner": "d-led",
+                "repo": "influxdb-cpp-rest",
+                "stars": 51
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "influent.rs",
+              "description": "InfluxDB Rust driver",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 39966739,
+                "language": "Rust",
+                "last_commit": "2020-05-23T06:12:19Z",
+                "owner": "gobwas",
+                "repo": "influent.rs",
+                "stars": 43
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "influent",
+              "description": "InfluxDB Javascript driver",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 40012057,
+                "language": "JavaScript",
+                "last_commit": "2015-12-23T17:17:12Z",
+                "owner": "gobwas",
+                "repo": "influent",
+                "stars": 37
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "erflux",
+              "description": "InfluxDB client for Erlang",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 24118495,
+                "language": "Erlang",
+                "last_commit": "2017-03-29T08:16:12Z",
+                "owner": "gossiperl",
+                "repo": "erflux",
+                "stars": 29
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cl-influxdb",
+              "description": "Common Lisp interface to the Time Series Database InfluxDB",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 17809771,
+                "language": "Common Lisp",
+                "last_commit": "2017-03-15T03:12:18Z",
+                "owner": "mmaul",
+                "repo": "cl-influxdb",
+                "stars": 24
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "InfluxDB-Client-LabVIEW",
+              "description": "LabVIEW client for InfluxDB",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 34791019,
+                "language": "LabVIEW",
+                "last_commit": "2020-08-21T13:17:29Z",
+                "owner": "johanvandenbroek",
+                "repo": "InfluxDB-Client-LabVIEW",
+                "stars": 24
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "node-influx-udp",
+              "description": "Write to InfluxDB using its UDP interface",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 20817524,
+                "language": "JavaScript",
+                "last_commit": "2017-08-28T02:58:40Z",
+                "owner": "stores-com",
+                "repo": "node-influx-udp",
+                "stars": 18
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Unofficial"
+        }
+      ],
       "title": "Client libraries"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Python",
-          "description": "Python client for InfluxDB",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2024-10-29T15:54:14Z",
-            "owner": "influxdata",
-            "repo": "influxdb-python",
-            "stars": 1693
-          }
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "k6",
+                  "description": "A modern load testing tool, using Go and JavaScript",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 54400687,
+                    "language": "Go",
+                    "last_commit": "2026-08-19T11:02:37Z",
+                    "owner": "grafana",
+                    "repo": "k6",
+                    "stars": 31279
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Telegraf",
+                  "description": "(Official) plugin-driven server agent for reporting metrics into InfluxDB",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 33258973,
+                    "language": "Go",
+                    "last_commit": "2026-08-19T09:51:16Z",
+                    "owner": "influxdata",
+                    "repo": "telegraf",
+                    "stars": 17757
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "influxdb-logger",
+                  "description": "SmartApp to log SmartThings device attributes to an InfluxDB database",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 51530874,
+                    "language": "Groovy",
+                    "last_commit": "2024-04-18T01:14:28Z",
+                    "owner": "codersaur",
+                    "repo": "SmartThings",
+                    "stars": 318
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "snmpcollector",
+                  "description": "A full featured Generic SNMP data collector with Web Administration Interface for InfluxDB",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 56316007,
+                    "language": "Go",
+                    "last_commit": "2023-12-18T23:01:40Z",
+                    "owner": "toni-moreno",
+                    "repo": "snmpcollector",
+                    "stars": 307
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "vsphere-influxdb-go",
+                  "description": "Collect VMware vSphere, vCenter and ESXi performance metrics and send them to InfluxDB",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 58385375,
+                    "language": "Go",
+                    "last_commit": "2020-04-01T12:15:06Z",
+                    "owner": "Oxalide",
+                    "repo": "vsphere-influxdb-go",
+                    "stars": 213
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "node-opcua-logger",
+                  "description": "Collect industrial data from OPC UA Servers",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 54654834,
+                    "language": "JavaScript",
+                    "last_commit": "2022-12-08T20:45:04Z",
+                    "owner": "coussej",
+                    "repo": "node-opcua-logger",
+                    "stars": 184
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "mqforward",
+                  "description": "MQTT to influxdb forwarder",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 26794016,
+                    "language": "Go",
+                    "last_commit": "2025-12-02T17:49:30Z",
+                    "owner": "shirou",
+                    "repo": "mqforward",
+                    "stars": 81
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "influxdb-sqlserver",
+                  "description": "Collect Microsoft SQL Server metrics for reporting to InfluxDB and visualize them with Grafana",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 48822315,
+                    "language": "Go",
+                    "last_commit": "2023-11-06T08:29:16Z",
+                    "owner": "zensqlmonitor",
+                    "repo": "influxdb-sqlserver",
+                    "stars": 72
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Charmander",
+                  "description": "Charmander is a lab environment for measuring and analyzing resource-scheduling algorithms",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 27396886,
+                    "language": "Shell",
+                    "last_commit": "2016-05-30T05:05:12Z",
+                    "owner": "att-innovate",
+                    "repo": "charmander",
+                    "stars": 67
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Influx-Capacitor",
+                  "description": "Influx-Capacitor collects metrics from windows machines using Performance Counters. Data is sent to influxDB to be viewable by grafana",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 37778046,
+                    "language": "C#",
+                    "last_commit": "2017-05-29T23:22:48Z",
+                    "owner": "poxet",
+                    "repo": "Influx-Capacitor",
+                    "stars": 45
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "grade",
+                  "description": "Track Go benchmark performance over time by storing results in InfluxDB",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 62092921,
+                    "language": "Go",
+                    "last_commit": "2020-01-20T01:57:12Z",
+                    "owner": "influxdata",
+                    "repo": "grade",
+                    "stars": 43
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "gopherwx",
+                  "description": "a service that pulls live weather data from a Davis Instruments Vantage Pro2 station and stores it in InfluxDB",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 42845272,
+                    "language": "Go",
+                    "last_commit": "2026-07-07T21:46:52Z",
+                    "owner": "chrissnell",
+                    "repo": "remoteweather",
+                    "stars": 32
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "aprs2influxdb",
+                  "description": "Interfaces ham radio APRS-IS servers and saves packet data into an influxdb database",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 104649197,
+                    "language": "Python",
+                    "last_commit": "2022-08-22T14:03:53Z",
+                    "owner": "FaradayRF",
+                    "repo": "aprs2influxdb",
+                    "stars": 29
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "agento",
+                  "description": "Client/server collecting near realtime metrics from Linux hosts",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 35034919,
+                    "language": "Go",
+                    "last_commit": "2019-03-13T09:14:44Z",
+                    "owner": "abrander",
+                    "repo": "agento",
+                    "stars": 28
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "tesla-streamer",
+                  "description": "Streams data from Tesla Model S to InfluxDB (rake task)",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 14440001,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-12T15:10:33Z",
+                    "owner": "timdorr",
+                    "repo": "tesla-trip",
+                    "stars": 19
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "accelerometer2influx",
+                  "description": "Android application that takes the x-y-z axis metrics from your phone accelerometer and sends the data to InfluxDB.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 124707725,
+                    "language": "Kotlin",
+                    "last_commit": "2018-03-25T09:43:36Z",
+                    "owner": "CorpGlory",
+                    "repo": "accelerometer2influx",
+                    "stars": 18
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "mesos-influxdb-collector",
+                  "description": "Lightweight mesos stats collector for InfluxDB",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 43642210,
+                    "language": "Go",
+                    "last_commit": "2022-01-04T14:54:29Z",
+                    "owner": "kpacha",
+                    "repo": "mesos-influxdb-collector",
+                    "stars": 16
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "aggregateD",
+                  "description": "A dogstatsD inspired metrics and event aggregation daemon for InfluxDB",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 35551603,
+                    "language": "Go",
+                    "last_commit": "2016-09-03T03:30:43Z",
+                    "owner": "ccpgames",
+                    "repo": "aggregateD",
+                    "stars": 14
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Influxdb-Powershell",
+                  "description": "Powershell script to send Windows Performance counters to an InfluxDB Server",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 73423461,
+                    "language": "PowerShell",
+                    "last_commit": "2016-11-13T21:31:03Z",
+                    "owner": "vsavornin",
+                    "repo": "Influxdb-Powershell",
+                    "stars": 9
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "ntp_checker",
+                  "description": "compares internal NTP sources and warns if the offset between servers exceeds a definable (fraction of) seconds",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 42874519,
+                    "language": "Perl",
+                    "last_commit": "2018-11-28T17:36:06Z",
+                    "owner": "fss1",
+                    "repo": "ntp_checker",
+                    "stars": 4
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "marathon-event-metrics",
+                  "description": "a tool for reporting Marathon events to InfluxDB",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 75823565,
+                    "language": "JavaScript",
+                    "last_commit": "2016-12-15T11:43:45Z",
+                    "owner": "Wikia",
+                    "repo": "marathon-event-metrics",
+                    "stars": 1
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "proc_to_influxdb",
+                  "description": "Console app to observe Windows process starts and stops via InfluxDB",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 72140525,
+                    "language": "C#",
+                    "last_commit": "2018-03-22T21:49:12Z",
+                    "owner": "d-led",
+                    "repo": "proc_to_influxdb",
+                    "stars": 1
+                  }
+                }
+              ],
+              "description": "Tools whose primary or sole purpose is to feed data into InfluxDB.",
+              "node_type": "group",
+              "title": "Dedicated"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Glances",
+                  "description": "Glances an Eye on your system",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 2909429,
+                    "language": "Python",
+                    "last_commit": "2026-08-18T11:20:49Z",
+                    "owner": "nicolargo",
+                    "repo": "glances",
+                    "stars": 33377
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "cAdvisor",
+                  "description": "Analyzes resource usage and performance characteristics of running containers",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 20653934,
+                    "language": "Go",
+                    "last_commit": "2026-07-20T21:23:51Z",
+                    "owner": "google",
+                    "repo": "cadvisor",
+                    "stars": 19369
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "gatling",
+                  "description": "Async Scala-Akka-Netty based Stress Tool",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1826128,
+                    "language": "Scala",
+                    "last_commit": "2026-07-27T20:37:22Z",
+                    "owner": "gatling",
+                    "repo": "gatling",
+                    "stars": 6947
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Riemann",
+                  "description": "A network event stream processing system, in Clojure",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 3385297,
+                    "language": "Clojure",
+                    "last_commit": "2026-04-05T20:42:18Z",
+                    "owner": "riemann",
+                    "repo": "riemann",
+                    "stars": 4267
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "heka",
+                  "description": "General purpose data collection and processing tool",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 6248212,
+                    "language": "Go",
+                    "last_commit": "2024-01-23T01:44:36Z",
+                    "owner": "mozilla-services",
+                    "repo": "heka",
+                    "stars": 3394
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "heapster",
+                  "description": "Monitor container resource usage of a Kubernetes cluster",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 23272510,
+                    "language": "Go",
+                    "last_commit": "2018-11-30T22:53:55Z",
+                    "owner": "kubernetes-retired",
+                    "repo": "heapster",
+                    "stars": 2635
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "statsite",
+                  "description": "C implementation of statsd",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 4196881,
+                    "language": "C",
+                    "last_commit": "2021-06-11T12:37:55Z",
+                    "owner": "statsite",
+                    "repo": "statsite",
+                    "stars": 1818
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "jmxtrans",
+                  "description": "Effectively the missing connector between speaking to a JVM via JMX on one end and whatever logging / monitoring / graphing package that you can dream up on the other end.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 2934254,
+                    "language": "Java",
+                    "last_commit": "2022-09-05T05:09:49Z",
+                    "owner": "jmxtrans",
+                    "repo": "jmxtrans",
+                    "stars": 1702
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "logary",
+                  "description": "High performance, multi-target logging, metric and health-check library for mono and .Net",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 20382492,
+                    "language": "F#",
+                    "last_commit": "2023-05-18T19:29:50Z",
+                    "owner": "causiq",
+                    "repo": "logary",
+                    "stars": 531
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "logagent",
+                  "description": "is a modern, open-source, light-weight log shipper. Logagent includes influxdb input plugin and influxdb output plugin and many other integrations",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 39678912,
+                    "language": "JavaScript",
+                    "last_commit": "2024-09-12T15:57:37Z",
+                    "owner": "sematext",
+                    "repo": "logagent-js",
+                    "stars": 391
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "statsd-jvm-profiler",
+                  "description": "Simple JVM Profiler Using StatsD",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 29201575,
+                    "language": "Java",
+                    "last_commit": "2026-01-15T22:52:03Z",
+                    "owner": "etsy",
+                    "repo": "statsd-jvm-profiler",
+                    "stars": 335
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "cernan",
+                  "description": "A telemetry and logging aggregation server",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 60210125,
+                    "language": "Rust",
+                    "last_commit": "2023-06-14T16:06:53Z",
+                    "owner": "postmates",
+                    "repo": "cernan",
+                    "stars": 314
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Graphios",
+                  "description": "A program to send nagios perf data to graphite (carbon) / statsd / librato / influxDB",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 2864214,
+                    "language": "Python",
+                    "last_commit": "2017-07-27T19:11:24Z",
+                    "owner": "shawn-sterling",
+                    "repo": "graphios",
+                    "stars": 288
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Centreon",
+                  "description": "A network, system, applicative supervision and monitoring tool",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 496143272,
+                    "language": "PHP",
+                    "last_commit": "2026-08-19T12:13:48Z",
+                    "owner": "centreon",
+                    "repo": "centreon",
+                    "stars": 162
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "metrics.sh",
+                  "description": "Collect and forward metrics using portable shell scripts",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 31031953,
+                    "language": "Shell",
+                    "last_commit": "2019-03-11T11:34:56Z",
+                    "owner": "pstadler",
+                    "repo": "metrics.sh",
+                    "stars": 144
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "cloudwatch-sender",
+                  "description": "Send metrics to InfluxDB/Graphite from Amazon Cloudwatch",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 35511770,
+                    "language": "Ruby",
+                    "last_commit": "2016-06-14T22:31:41Z",
+                    "owner": "bbc",
+                    "repo": "news-gem-cloudwatch-sender",
+                    "stars": 53
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "ioBroker",
+                  "description": "Homeautomation / IoT Platform uses Influxdb to store history data",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 47922419,
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-17T06:04:44Z",
+                    "owner": "ioBroker",
+                    "repo": "ioBroker.influxdb",
+                    "stars": 37
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Sematext Agent",
+                  "description": "Open source monitoring agent to collect metrics from Solr, Elasticsearch, Cassandra, JVM, JMX, ClickHouse, MySQL, Hadoop, and more via pluggable integrations. Output via Influx Line Protocol to InfluxDB or Sematext Cloud",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 129094997,
+                    "language": null,
+                    "last_commit": "2024-05-30T10:17:27Z",
+                    "owner": "sematext",
+                    "repo": "sematext-agent-integrations",
+                    "stars": 13
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "crankshaftd",
+                  "description": "Simple Go agent to ingest streaming data from Turbine via SSE and push it into StatsD as a gauge or to InfluxDB",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 19628485,
+                    "language": "Go",
+                    "last_commit": "2017-04-20T16:38:56Z",
+                    "owner": "fullcontact",
+                    "repo": "crankshaftd",
+                    "stars": 6
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "internet_data_usage",
+                  "description": "Python based application to pull data plan usage for different carriers such as Telus and Koodo",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 44850738,
+                    "language": "Python",
+                    "last_commit": "2015-11-20T06:46:42Z",
+                    "owner": "precurse",
+                    "repo": "internet_data_usage",
+                    "stars": 2
+                  }
+                }
+              ],
+              "description": "Tools that generate data that feed into multiple backends, InfluxDB included.",
+              "node_type": "group",
+              "title": "Non-dedicated"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Projects"
         },
         {
-          "node_type": "item",
-          "title": "Java",
-          "description": "Java client for InfluxDB",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-03-01T14:48:38Z",
-            "owner": "influxdata",
-            "repo": "influxdb-java",
-            "stars": 1196
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "metrics",
+              "description": "(PHP) Simple library that abstracts different metrics collectors. \"I find this necessary to have a consistent and simple metrics (functional) API that doesn't cause vendor lock-in\"",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4423633,
+                "language": "PHP",
+                "last_commit": "2026-01-13T13:28:01Z",
+                "owner": "beberlei",
+                "repo": "metrics",
+                "stars": 322
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "go-runtime-metrics",
+              "description": "Collect golang runtime Metrics, outputting to InfluxDB or through Telegraf",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 75533199,
+                "language": "Go",
+                "last_commit": "2018-02-04T21:10:17Z",
+                "owner": "tevjef",
+                "repo": "go-runtime-metrics",
+                "stars": 287
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "django-influxdb-metrics",
+              "description": "A reusable Django app that sends metrics about your project to InfluxDB",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 24638834,
+                "language": "Python",
+                "last_commit": "2021-08-04T10:53:43Z",
+                "owner": "bitlabstudio",
+                "repo": "django-influxdb-metrics",
+                "stars": 86
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lua-resty-influx",
+              "description": "OpenResty client for InfluxDB",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 69697049,
+                "language": "Perl",
+                "last_commit": "2020-12-16T10:02:24Z",
+                "owner": "p0pr0ck5",
+                "repo": "lua-resty-influx",
+                "stars": 28
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pyVsphereInflux",
+              "description": "A library and supporting script for pulling data from vSphere and inserting it into InfluxDB",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 38180932,
+                "language": "Python",
+                "last_commit": "2016-03-01T15:03:18Z",
+                "owner": "fennm",
+                "repo": "pyVsphereInflux",
+                "stars": 3
+              }
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "go-metrics-influxdb",
+                  "description": "A reporter for the go-metrics library which will post the metrics to InfluxDB",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 41122227,
+                    "language": "Go",
+                    "last_commit": "2020-02-21T17:07:24Z",
+                    "owner": "vrischmann",
+                    "repo": "go-metrics-influxdb",
+                    "stars": 69
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "logrus_influxdb",
+                  "description": "InfluxDB Hook for Logrus",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 44123430,
+                    "language": "Go",
+                    "last_commit": "2019-12-25T07:10:32Z",
+                    "owner": "abramovic",
+                    "repo": "logrus_influxdb",
+                    "stars": 26
+                  }
+                }
+              ],
+              "description": "Hooks for other logging libraries to output to InfluxDB.",
+              "node_type": "group",
+              "title": "Hooks"
+            }
+          ],
+          "description": "Libraries to collect data and feed into InfluxDB.",
+          "node_type": "group",
+          "title": "Libraries"
         },
         {
-          "node_type": "item",
-          "title": "PHP",
-          "description": "PHP client for InfluxDB",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "PHP",
-            "last_commit": "2022-11-15T21:22:35Z",
-            "owner": "influxdata",
-            "repo": "influxdb-php",
-            "stars": 426
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "metrics-influxdb",
+              "description": "A reporter for dropwizard metrics which announces measurements to an InfluxDB server",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 16432430,
+                "language": "Java",
+                "last_commit": "2023-03-20T05:01:53Z",
+                "owner": "davidB",
+                "repo": "metrics-influxdb",
+                "stars": 272
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kafka-influxdb",
+              "description": "A Kafka consumer for InfluxDB written in Python",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 23618466,
+                "language": "Python",
+                "last_commit": "2022-12-08T10:40:57Z",
+                "owner": "mre",
+                "repo": "kafka-influxdb",
+                "stars": 218
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "statsd-influxdb-backend",
+              "description": "A naive InfluxDB backend for StatsD",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14410522,
+                "language": "JavaScript",
+                "last_commit": "2018-05-12T12:20:27Z",
+                "owner": "bernd",
+                "repo": "statsd-influxdb-backend",
+                "stars": 169
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "fluent-plugin-influxdb",
+              "description": "A buffered output plugin for fluentd and InfluxDB",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15103517,
+                "language": "Ruby",
+                "last_commit": "2024-09-27T07:53:44Z",
+                "owner": "fangli",
+                "repo": "fluent-plugin-influxdb",
+                "stars": 109
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "logstash-output-influxdb",
+              "description": "Community-maintained Logstash plugin to output metrics to InfluxDB",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 25579200,
+                "language": "Ruby",
+                "last_commit": "2026-08-14T21:57:06Z",
+                "owner": "logstash-plugins",
+                "repo": "logstash-output-influxdb",
+                "stars": 59
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "jenkinsci/influxdb-plugin",
+              "description": "Jenkins plugin to send build metrics into InfluxDB",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 63704367,
+                "language": "Java",
+                "last_commit": "2026-07-27T07:43:18Z",
+                "owner": "jenkinsci",
+                "repo": "influxdb-plugin",
+                "stars": 56
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "exometer_influxdb",
+              "description": "Exometer reporter for InfluxDB",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 44677494,
+                "language": "Erlang",
+                "last_commit": "2020-02-12T10:15:27Z",
+                "owner": "travelping",
+                "repo": "exometer_influxdb",
+                "stars": 36
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "influx-nagios-plugin",
+              "description": "Nagios plugin for querying monitoring stats from InfluxDB",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 26991311,
+                "language": "Python",
+                "last_commit": "2015-10-21T06:44:05Z",
+                "owner": "shaharke",
+                "repo": "influx-nagios-plugin",
+                "stars": 29
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sensu-plugins-influxdb",
+              "description": "Sensu InfluxDB Plugins",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 30632159,
+                "language": "Ruby",
+                "last_commit": "2021-07-19T05:16:23Z",
+                "owner": "sensu-plugins",
+                "repo": "sensu-plugins-influxdb",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sidekiq-influxdb",
+              "description": "A Sidekiq middleware to send job execution metrics to InfluxDB",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 112096083,
+                "language": "Ruby",
+                "last_commit": "2026-06-05T12:22:44Z",
+                "owner": "funbox",
+                "repo": "sidekiq-influxdb",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mod-influxdb",
+              "description": "Shinken module for exporting data to InfluxDB",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 20572762,
+                "language": "Python",
+                "last_commit": "2019-05-23T20:17:44Z",
+                "owner": "savoirfairelinux",
+                "repo": "mod-influxdb",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "snap-plugin-publisher-influxdb",
+              "description": "Publishes snap metrics to InfluxDB",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 41835209,
+                "language": "Go",
+                "last_commit": "2022-11-07T23:12:47Z",
+                "owner": "intelsdi-x",
+                "repo": "snap-plugin-publisher-influxdb",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "embulk-output-influxdb",
+              "description": "InfluxDB output plugin for Embulk",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 42437339,
+                "language": "Ruby",
+                "last_commit": "2017-02-16T07:35:12Z",
+                "owner": "joker1007",
+                "repo": "embulk-output-influxdb",
+                "stars": 2
+              }
+            }
+          ],
+          "description": "Plugins to allow other standalone tools to send their data into InfluxDB.",
+          "node_type": "group",
+          "title": "Plugins"
         },
         {
-          "node_type": "item",
-          "title": "Ruby",
-          "description": "Ruby client for InfluxDB",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2022-06-20T11:16:05Z",
-            "owner": "InfluxCommunity",
-            "repo": "influxdb-ruby",
-            "stars": 371
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "C#",
-          "description": "A .NET library for efficiently sending points to InfluxDB",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C#",
-            "last_commit": "2023-07-18T21:20:54Z",
-            "owner": "influxdata",
-            "repo": "influxdb-csharp",
-            "stars": 198
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Go",
-          "description": "Go client for InfluxDB 1.x",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2024-03-12T10:54:59Z",
-            "owner": "influxdata",
-            "repo": "influxdb1-client",
-            "stars": 192
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Rails",
-          "description": "Ruby on Rails bindings to automatically write metrics into InfluxDB",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Ruby",
-            "last_commit": "2025-04-10T14:27:50Z",
-            "owner": "influxdata",
-            "repo": "influxdb-rails",
-            "stars": 0
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "nmon2influxdb",
+              "description": "Import nmon file into InfluxDB",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 26778394,
+                "language": "Go",
+                "last_commit": "2020-12-01T10:20:15Z",
+                "owner": "adejoux",
+                "repo": "nmon2influxdb",
+                "stars": 80
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "JMeter2InfluxDB",
+              "description": "Read JMeter results in a csv file and put results in InfluxDB after the load test",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 166416028,
+                "language": "Java",
+                "last_commit": "2025-04-09T08:07:26Z",
+                "owner": "soprasteria",
+                "repo": "jmeter2influxdb",
+                "stars": 10
+              }
+            }
+          ],
+          "description": "Tools to import a fixed set of data into InfluxDB.",
+          "node_type": "group",
+          "title": "Import tools"
         }
       ],
-      "title": "Official"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "node-influx",
-          "description": "InfluxDB Node.js Client",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-05-28T03:16:07Z",
-            "owner": "node-influx",
-            "repo": "node-influx",
-            "stars": 864
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "InfluxDB-Client-for-Arduino",
-          "description": "Arduino client for InfluxDB",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-06-09T08:58:01Z",
-            "owner": "tobiasschuerg",
-            "repo": "InfluxDB-Client-for-Arduino",
-            "stars": 415
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "instream",
-          "description": "InfluxDB driver for Elixir",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Elixir",
-            "last_commit": "2025-10-12T09:52:38Z",
-            "owner": "mneudert",
-            "repo": "instream",
-            "stars": 228
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "InfluxDB.NET",
-          "description": ".NET client for InfluxDB",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2022-06-22T15:19:09Z",
-            "owner": "bugthesystem",
-            "repo": "InfluxDB.Net",
-            "stars": 163
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "scala-influxdb-client",
-          "description": "Asynchronous InfluxDB client for Scala",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Scala",
-            "last_commit": "2019-08-23T09:36:59Z",
-            "owner": "paulgoldbaum",
-            "repo": "scala-influxdb-client",
-            "stars": 122
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "fluxter",
-          "description": "An InfluxDB writer for Elixir",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Elixir",
-            "last_commit": "2025-05-21T11:48:32Z",
-            "owner": "lexmag",
-            "repo": "fluxter",
-            "stars": 106
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "influxdbr",
-          "description": "R library for InfluxDB",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "R",
-            "last_commit": "2024-08-09T06:54:51Z",
-            "owner": "dleutnant",
-            "repo": "influxdbr",
-            "stars": 92
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "InfluxDB PHP SDK",
-          "description": "UDP/IP or HTTP adapters for read and write data",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2019-06-03T02:30:45Z",
-            "owner": "corley-archive",
-            "repo": "influxdb-php-sdk",
-            "stars": 84
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "capacitor",
-          "description": "A Clojure client for InfluxDB",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Clojure",
-            "last_commit": "2018-12-04T18:56:29Z",
-            "owner": "olauzon",
-            "repo": "capacitor",
-            "stars": 63
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "influxdb-haskell",
-          "description": "Haskell client library for InfluxDB",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Haskell",
-            "last_commit": "2024-07-12T14:16:56Z",
-            "owner": "maoe",
-            "repo": "influxdb-haskell",
-            "stars": 55
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "influxdb-cpp-rest",
-          "description": "A C++ InfluxDB client with a batching async interface",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2025-11-26T13:57:41Z",
-            "owner": "d-led",
-            "repo": "influxdb-cpp-rest",
-            "stars": 51
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "influent.rs",
-          "description": "InfluxDB Rust driver",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Rust",
-            "last_commit": "2020-05-23T06:12:19Z",
-            "owner": "gobwas",
-            "repo": "influent.rs",
-            "stars": 43
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "influent",
-          "description": "InfluxDB Javascript driver",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2015-12-23T17:17:12Z",
-            "owner": "gobwas",
-            "repo": "influent",
-            "stars": 37
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "erflux",
-          "description": "InfluxDB client for Erlang",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Erlang",
-            "last_commit": "2017-03-29T08:16:12Z",
-            "owner": "gossiperl",
-            "repo": "erflux",
-            "stars": 29
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cl-influxdb",
-          "description": "Common Lisp interface to the Time Series Database InfluxDB",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Common Lisp",
-            "last_commit": "2017-03-15T03:12:18Z",
-            "owner": "mmaul",
-            "repo": "cl-influxdb",
-            "stars": 24
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "InfluxDB-Client-LabVIEW",
-          "description": "LabVIEW client for InfluxDB",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "LabVIEW",
-            "last_commit": "2020-08-21T13:17:29Z",
-            "owner": "johanvandenbroek",
-            "repo": "InfluxDB-Client-LabVIEW",
-            "stars": 24
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "node-influx-udp",
-          "description": "Write to InfluxDB using its UDP interface",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2017-08-28T02:58:40Z",
-            "owner": "stores-com",
-            "repo": "node-influx-udp",
-            "stars": 18
-          }
-        }
-      ],
-      "title": "Unofficial"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Collecting data into InfluxDB"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Projects"
-    },
-    {
-      "description": "Tools whose primary or sole purpose is to feed data into InfluxDB.",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "k6",
-          "description": "A modern load testing tool, using Go and JavaScript",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T20:22:13Z",
-            "owner": "grafana",
-            "repo": "k6",
-            "stars": 31278
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "grafana",
+              "description": "Gorgeous metric viz, dashboards & editors for Graphite, InfluxDB & OpenTSDB",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15111821,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T12:36:27Z",
+                "owner": "grafana",
+                "repo": "grafana",
+                "stars": 76305
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Chronograf",
+              "description": "Official InfluxDB data visualization tool",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 66506962,
+                "language": "TypeScript",
+                "last_commit": "2026-08-11T08:39:57Z",
+                "owner": "influxdata",
+                "repo": "chronograf",
+                "stars": 1566
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "facette",
+              "description": "Time series data visualization and graphing software",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2155566,
+                "language": "Go",
+                "last_commit": "2021-10-05T06:11:23Z",
+                "owner": "facette",
+                "repo": "facette",
+                "stars": 1158
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "InfluxDB Studio",
+              "description": "InfluxDB Studio is a UI management tool, its inspiration comes from other similar SQL database management tools (use InfluxData.Net run on MS Windows)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 75483951,
+                "language": "C#",
+                "last_commit": "2022-12-07T19:07:37Z",
+                "owner": "meverett",
+                "repo": "InfluxDBStudio",
+                "stars": 931
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ostent",
+              "description": "collects and displays system metrics and optionally relays to Graphite and/or InfluxDB",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 18282081,
+                "language": "Go",
+                "last_commit": "2022-12-12T14:53:10Z",
+                "owner": "ostrost",
+                "repo": "ostent",
+                "stars": 178
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "InfluxGraph",
+              "description": "Graphite InfluxDB storage finder for Graphite-API",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 70264502,
+                "language": "Python",
+                "last_commit": "2018-11-07T11:49:29Z",
+                "owner": "InfluxGraph",
+                "repo": "influxgraph",
+                "stars": 92
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FluxDash",
+              "description": "Terminal based InfluxDB dashboard",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 33163580,
+                "language": "Go",
+                "last_commit": "2016-03-30T20:57:13Z",
+                "owner": "vrecan",
+                "repo": "FluxDash",
+                "stars": 36
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Dashboards and visualization"
         },
         {
-          "node_type": "item",
-          "title": "Telegraf",
-          "description": "(Official) plugin-driven server agent for reporting metrics into InfluxDB",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-19T00:13:51Z",
-            "owner": "influxdata",
-            "repo": "telegraf",
-            "stars": 17757
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "influxdb-logger",
-          "description": "SmartApp to log SmartThings device attributes to an InfluxDB database",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Groovy",
-            "last_commit": "2024-04-18T01:14:28Z",
-            "owner": "codersaur",
-            "repo": "SmartThings",
-            "stars": 318
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "snmpcollector",
-          "description": "A full featured Generic SNMP data collector with Web Administration Interface for InfluxDB",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2023-12-18T23:01:40Z",
-            "owner": "toni-moreno",
-            "repo": "snmpcollector",
-            "stars": 307
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vsphere-influxdb-go",
-          "description": "Collect VMware vSphere, vCenter and ESXi performance metrics and send them to InfluxDB",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2020-04-01T12:15:06Z",
-            "owner": "Oxalide",
-            "repo": "vsphere-influxdb-go",
-            "stars": 213
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "node-opcua-logger",
-          "description": "Collect industrial data from OPC UA Servers",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-12-08T20:45:04Z",
-            "owner": "coussej",
-            "repo": "node-opcua-logger",
-            "stars": 184
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mqforward",
-          "description": "MQTT to influxdb forwarder",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2025-12-02T17:49:30Z",
-            "owner": "shirou",
-            "repo": "mqforward",
-            "stars": 81
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "influxdb-sqlserver",
-          "description": "Collect Microsoft SQL Server metrics for reporting to InfluxDB and visualize them with Grafana",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2023-11-06T08:29:16Z",
-            "owner": "zensqlmonitor",
-            "repo": "influxdb-sqlserver",
-            "stars": 72
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Charmander",
-          "description": "Charmander is a lab environment for measuring and analyzing resource-scheduling algorithms",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2016-05-30T05:05:12Z",
-            "owner": "att-innovate",
-            "repo": "charmander",
-            "stars": 67
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Influx-Capacitor",
-          "description": "Influx-Capacitor collects metrics from windows machines using Performance Counters. Data is sent to influxDB to be viewable by grafana",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2017-05-29T23:22:48Z",
-            "owner": "poxet",
-            "repo": "Influx-Capacitor",
-            "stars": 45
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "grade",
-          "description": "Track Go benchmark performance over time by storing results in InfluxDB",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2020-01-20T01:57:12Z",
-            "owner": "influxdata",
-            "repo": "grade",
-            "stars": 43
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gopherwx",
-          "description": "a service that pulls live weather data from a Davis Instruments Vantage Pro2 station and stores it in InfluxDB",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-07-07T21:46:52Z",
-            "owner": "chrissnell",
-            "repo": "remoteweather",
-            "stars": 32
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "aprs2influxdb",
-          "description": "Interfaces ham radio APRS-IS servers and saves packet data into an influxdb database",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-08-22T14:03:53Z",
-            "owner": "FaradayRF",
-            "repo": "aprs2influxdb",
-            "stars": 29
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "agento",
-          "description": "Client/server collecting near realtime metrics from Linux hosts",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Go",
-            "last_commit": "2019-03-13T09:14:44Z",
-            "owner": "abrander",
-            "repo": "agento",
-            "stars": 28
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tesla-streamer",
-          "description": "Streams data from Tesla Model S to InfluxDB (rake task)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-12T15:10:33Z",
-            "owner": "timdorr",
-            "repo": "tesla-trip",
-            "stars": 19
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "accelerometer2influx",
-          "description": "Android application that takes the x-y-z axis metrics from your phone accelerometer and sends the data to InfluxDB.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Kotlin",
-            "last_commit": "2018-03-25T09:43:36Z",
-            "owner": "CorpGlory",
-            "repo": "accelerometer2influx",
-            "stars": 18
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mesos-influxdb-collector",
-          "description": "Lightweight mesos stats collector for InfluxDB",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Go",
-            "last_commit": "2022-01-04T14:54:29Z",
-            "owner": "kpacha",
-            "repo": "mesos-influxdb-collector",
-            "stars": 16
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "aggregateD",
-          "description": "A dogstatsD inspired metrics and event aggregation daemon for InfluxDB",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2016-09-03T03:30:43Z",
-            "owner": "ccpgames",
-            "repo": "aggregateD",
-            "stars": 14
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Influxdb-Powershell",
-          "description": "Powershell script to send Windows Performance counters to an InfluxDB Server",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "PowerShell",
-            "last_commit": "2016-11-13T21:31:03Z",
-            "owner": "vsavornin",
-            "repo": "Influxdb-Powershell",
-            "stars": 9
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ntp_checker",
-          "description": "compares internal NTP sources and warns if the offset between servers exceeds a definable (fraction of) seconds",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Perl",
-            "last_commit": "2018-11-28T17:36:06Z",
-            "owner": "fss1",
-            "repo": "ntp_checker",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "marathon-event-metrics",
-          "description": "a tool for reporting Marathon events to InfluxDB",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2016-12-15T11:43:45Z",
-            "owner": "Wikia",
-            "repo": "marathon-event-metrics",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "proc_to_influxdb",
-          "description": "Console app to observe Windows process starts and stops via InfluxDB",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2018-03-22T21:49:12Z",
-            "owner": "d-led",
-            "repo": "proc_to_influxdb",
-            "stars": 1
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pysysinfo_influxdb",
-          "description": "Periodically send system information into influxdb (uses python3 + psutil, so it also works under Windows)",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "sysinfo_influxdb",
-          "description": "Collect and send system (linux) info to InfluxDB",
-          "children": []
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Morgoth",
+              "description": "Metric anomaly detection",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 13006105,
+                "language": "Go",
+                "last_commit": "2022-11-14T15:47:54Z",
+                "owner": "nathanielc",
+                "repo": "morgoth",
+                "stars": 280
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "influx-alert",
+              "description": "A tool to query InfluxDB and send alerts based on a YAML config",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 44118007,
+                "language": "Go",
+                "last_commit": "2016-11-21T16:41:31Z",
+                "owner": "joshrendek",
+                "repo": "influx-alert",
+                "stars": 34
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "influxdb_google_sheets",
+              "description": "Google Sheets script for fetching and formatting InfluxDB data",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 81635642,
+                "language": "JavaScript",
+                "last_commit": "2025-01-13T12:40:50Z",
+                "owner": "HormyAJP",
+                "repo": "influxdb_google_sheets",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "hubot-influxdb-alerts",
+              "description": "Create and manage alerts in your chatroom using hubot and influxdb",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 31482163,
+                "language": "CoffeeScript",
+                "last_commit": "2015-12-17T02:47:14Z",
+                "owner": "amwelch",
+                "repo": "hubot-influxdb-alerts",
+                "stars": 10
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Other tools"
         }
       ],
-      "title": "Dedicated"
-    },
-    {
-      "description": "Tools that generate data that feed into multiple backends, InfluxDB included.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Glances",
-          "description": "Glances an Eye on your system",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T11:20:49Z",
-            "owner": "nicolargo",
-            "repo": "glances",
-            "stars": 33374
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cAdvisor",
-          "description": "Analyzes resource usage and performance characteristics of running containers",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-07-20T21:23:51Z",
-            "owner": "google",
-            "repo": "cadvisor",
-            "stars": 19366
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "gatling",
-          "description": "Async Scala-Akka-Netty based Stress Tool",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Scala",
-            "last_commit": "2026-07-27T20:37:22Z",
-            "owner": "gatling",
-            "repo": "gatling",
-            "stars": 6947
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Riemann",
-          "description": "A network event stream processing system, in Clojure",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2026-04-05T20:42:18Z",
-            "owner": "riemann",
-            "repo": "riemann",
-            "stars": 4267
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "heka",
-          "description": "General purpose data collection and processing tool",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Go",
-            "last_commit": "2024-01-23T01:44:36Z",
-            "owner": "mozilla-services",
-            "repo": "heka",
-            "stars": 3394
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "heapster",
-          "description": "Monitor container resource usage of a Kubernetes cluster",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Go",
-            "last_commit": "2018-11-30T22:53:55Z",
-            "owner": "kubernetes-retired",
-            "repo": "heapster",
-            "stars": 2635
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "statsite",
-          "description": "C implementation of statsd",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2021-06-11T12:37:55Z",
-            "owner": "statsite",
-            "repo": "statsite",
-            "stars": 1818
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "jmxtrans",
-          "description": "Effectively the missing connector between speaking to a JVM via JMX on one end and whatever logging / monitoring / graphing package that you can dream up on the other end.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2022-09-05T05:09:49Z",
-            "owner": "jmxtrans",
-            "repo": "jmxtrans",
-            "stars": 1702
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "logary",
-          "description": "High performance, multi-target logging, metric and health-check library for mono and .Net",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "F#",
-            "last_commit": "2023-05-18T19:29:50Z",
-            "owner": "causiq",
-            "repo": "logary",
-            "stars": 531
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "logagent",
-          "description": "is a modern, open-source, light-weight log shipper. Logagent includes influxdb input plugin and influxdb output plugin and many other integrations",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-09-12T15:57:37Z",
-            "owner": "sematext",
-            "repo": "logagent-js",
-            "stars": 391
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "statsd-jvm-profiler",
-          "description": "Simple JVM Profiler Using StatsD",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-01-15T22:52:03Z",
-            "owner": "etsy",
-            "repo": "statsd-jvm-profiler",
-            "stars": 335
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cernan",
-          "description": "A telemetry and logging aggregation server",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2023-06-14T16:06:53Z",
-            "owner": "postmates",
-            "repo": "cernan",
-            "stars": 314
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Graphios",
-          "description": "A program to send nagios perf data to graphite (carbon) / statsd / librato / influxDB",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2017-07-27T19:11:24Z",
-            "owner": "shawn-sterling",
-            "repo": "graphios",
-            "stars": 288
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Centreon",
-          "description": "A network, system, applicative supervision and monitoring tool",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-08-18T15:37:40Z",
-            "owner": "centreon",
-            "repo": "centreon",
-            "stars": 162
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "metrics.sh",
-          "description": "Collect and forward metrics using portable shell scripts",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2019-03-11T11:34:56Z",
-            "owner": "pstadler",
-            "repo": "metrics.sh",
-            "stars": 144
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cloudwatch-sender",
-          "description": "Send metrics to InfluxDB/Graphite from Amazon Cloudwatch",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2016-06-14T22:31:41Z",
-            "owner": "bbc",
-            "repo": "news-gem-cloudwatch-sender",
-            "stars": 53
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ioBroker",
-          "description": "Homeautomation / IoT Platform uses Influxdb to store history data",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-17T06:04:44Z",
-            "owner": "ioBroker",
-            "repo": "ioBroker.influxdb",
-            "stars": 37
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Sematext Agent",
-          "description": "Open source monitoring agent to collect metrics from Solr, Elasticsearch, Cassandra, JVM, JMX, ClickHouse, MySQL, Hadoop, and more via pluggable integrations. Output via Influx Line Protocol to InfluxDB or Sematext Cloud",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-05-30T10:17:27Z",
-            "owner": "sematext",
-            "repo": "sematext-agent-integrations",
-            "stars": 13
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "crankshaftd",
-          "description": "Simple Go agent to ingest streaming data from Turbine via SSE and push it into StatsD as a gauge or to InfluxDB",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Go",
-            "last_commit": "2017-04-20T16:38:56Z",
-            "owner": "fullcontact",
-            "repo": "crankshaftd",
-            "stars": 6
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "internet_data_usage",
-          "description": "Python based application to pull data plan usage for different carriers such as Telus and Koodo",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2015-11-20T06:46:42Z",
-            "owner": "precurse",
-            "repo": "internet_data_usage",
-            "stars": 2
-          }
-        }
-      ],
-      "title": "Non-dedicated"
-    },
-    {
-      "description": "Libraries to collect data and feed into InfluxDB.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "metrics",
-          "description": "(PHP) Simple library that abstracts different metrics collectors. \"I find this necessary to have a consistent and simple metrics (functional) API that doesn't cause vendor lock-in\"",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PHP",
-            "last_commit": "2026-01-13T13:28:01Z",
-            "owner": "beberlei",
-            "repo": "metrics",
-            "stars": 322
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "go-runtime-metrics",
-          "description": "Collect golang runtime Metrics, outputting to InfluxDB or through Telegraf",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2018-02-04T21:10:17Z",
-            "owner": "tevjef",
-            "repo": "go-runtime-metrics",
-            "stars": 287
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "django-influxdb-metrics",
-          "description": "A reusable Django app that sends metrics about your project to InfluxDB",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2021-08-04T10:53:43Z",
-            "owner": "bitlabstudio",
-            "repo": "django-influxdb-metrics",
-            "stars": 86
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "lua-resty-influx",
-          "description": "OpenResty client for InfluxDB",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Perl",
-            "last_commit": "2020-12-16T10:02:24Z",
-            "owner": "p0pr0ck5",
-            "repo": "lua-resty-influx",
-            "stars": 28
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pyVsphereInflux",
-          "description": "A library and supporting script for pulling data from vSphere and inserting it into InfluxDB",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2016-03-01T15:03:18Z",
-            "owner": "fennm",
-            "repo": "pyVsphereInflux",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "crow-metrics",
-          "description": "small metrics collector for node servers",
-          "children": []
-        },
-        {
-          "node_type": "item",
-          "title": "telemetry",
-          "description": "metric reporting for Go applications",
-          "children": []
-        }
-      ],
-      "title": "Libraries"
-    },
-    {
-      "description": "Hooks for other logging libraries to output to InfluxDB.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "go-metrics-influxdb",
-          "description": "A reporter for the go-metrics library which will post the metrics to InfluxDB",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Go",
-            "last_commit": "2020-02-21T17:07:24Z",
-            "owner": "vrischmann",
-            "repo": "go-metrics-influxdb",
-            "stars": 69
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "logrus_influxdb",
-          "description": "InfluxDB Hook for Logrus",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2019-12-25T07:10:32Z",
-            "owner": "abramovic",
-            "repo": "logrus_influxdb",
-            "stars": 26
-          }
-        }
-      ],
-      "title": "Hooks"
-    },
-    {
-      "description": "Plugins to allow other standalone tools to send their data into InfluxDB.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "metrics-influxdb",
-          "description": "A reporter for dropwizard metrics which announces measurements to an InfluxDB server",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Java",
-            "last_commit": "2023-03-20T05:01:53Z",
-            "owner": "davidB",
-            "repo": "metrics-influxdb",
-            "stars": 272
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "kafka-influxdb",
-          "description": "A Kafka consumer for InfluxDB written in Python",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-12-08T10:40:57Z",
-            "owner": "mre",
-            "repo": "kafka-influxdb",
-            "stars": 218
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "statsd-influxdb-backend",
-          "description": "A naive InfluxDB backend for StatsD",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2018-05-12T12:20:27Z",
-            "owner": "bernd",
-            "repo": "statsd-influxdb-backend",
-            "stars": 169
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "fluent-plugin-influxdb",
-          "description": "A buffered output plugin for fluentd and InfluxDB",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2024-09-27T07:53:44Z",
-            "owner": "fangli",
-            "repo": "fluent-plugin-influxdb",
-            "stars": 109
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "logstash-output-influxdb",
-          "description": "Community-maintained Logstash plugin to output metrics to InfluxDB",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2026-08-14T21:57:06Z",
-            "owner": "logstash-plugins",
-            "repo": "logstash-output-influxdb",
-            "stars": 59
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "jenkinsci/influxdb-plugin",
-          "description": "Jenkins plugin to send build metrics into InfluxDB",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-07-27T07:43:18Z",
-            "owner": "jenkinsci",
-            "repo": "influxdb-plugin",
-            "stars": 56
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "exometer_influxdb",
-          "description": "Exometer reporter for InfluxDB",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Erlang",
-            "last_commit": "2020-02-12T10:15:27Z",
-            "owner": "travelping",
-            "repo": "exometer_influxdb",
-            "stars": 36
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "influx-nagios-plugin",
-          "description": "Nagios plugin for querying monitoring stats from InfluxDB",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2015-10-21T06:44:05Z",
-            "owner": "shaharke",
-            "repo": "influx-nagios-plugin",
-            "stars": 29
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "sensu-plugins-influxdb",
-          "description": "Sensu InfluxDB Plugins",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2021-07-19T05:16:23Z",
-            "owner": "sensu-plugins",
-            "repo": "sensu-plugins-influxdb",
-            "stars": 18
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "sidekiq-influxdb",
-          "description": "A Sidekiq middleware to send job execution metrics to InfluxDB",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2026-06-05T12:22:44Z",
-            "owner": "funbox",
-            "repo": "sidekiq-influxdb",
-            "stars": 18
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mod-influxdb",
-          "description": "Shinken module for exporting data to InfluxDB",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2019-05-23T20:17:44Z",
-            "owner": "savoirfairelinux",
-            "repo": "mod-influxdb",
-            "stars": 13
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "snap-plugin-publisher-influxdb",
-          "description": "Publishes snap metrics to InfluxDB",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Go",
-            "last_commit": "2022-11-07T23:12:47Z",
-            "owner": "intelsdi-x",
-            "repo": "snap-plugin-publisher-influxdb",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "embulk-output-influxdb",
-          "description": "InfluxDB output plugin for Embulk",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Ruby",
-            "last_commit": "2017-02-16T07:35:12Z",
-            "owner": "joker1007",
-            "repo": "embulk-output-influxdb",
-            "stars": 2
-          }
-        }
-      ],
-      "title": "Plugins"
-    },
-    {
-      "description": "Tools to import a fixed set of data into InfluxDB.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "nmon2influxdb",
-          "description": "Import nmon file into InfluxDB",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Go",
-            "last_commit": "2020-12-01T10:20:15Z",
-            "owner": "adejoux",
-            "repo": "nmon2influxdb",
-            "stars": 80
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "JMeter2InfluxDB",
-          "description": "Read JMeter results in a csv file and put results in InfluxDB after the load test",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2025-04-09T08:07:26Z",
-            "owner": "soprasteria",
-            "repo": "jmeter2influxdb",
-            "stars": 10
-          }
-        }
-      ],
-      "title": "Import tools"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Consuming data from InfluxDB"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "grafana",
-          "description": "Gorgeous metric viz, dashboards & editors for Graphite, InfluxDB & OpenTSDB",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-19T03:53:52Z",
-            "owner": "grafana",
-            "repo": "grafana",
-            "stars": 76297
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Chronograf",
-          "description": "Official InfluxDB data visualization tool",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-11T08:39:57Z",
-            "owner": "influxdata",
-            "repo": "chronograf",
-            "stars": 1566
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "facette",
-          "description": "Time series data visualization and graphing software",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2021-10-05T06:11:23Z",
-            "owner": "facette",
-            "repo": "facette",
-            "stars": 1158
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "InfluxDB Studio",
-          "description": "InfluxDB Studio is a UI management tool, its inspiration comes from other similar SQL database management tools (use InfluxData.Net run on MS Windows)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2022-12-07T19:07:37Z",
-            "owner": "meverett",
-            "repo": "InfluxDBStudio",
-            "stars": 931
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ostent",
-          "description": "collects and displays system metrics and optionally relays to Graphite and/or InfluxDB",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2022-12-12T14:53:10Z",
-            "owner": "ostrost",
-            "repo": "ostent",
-            "stars": 178
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "InfluxGraph",
-          "description": "Graphite InfluxDB storage finder for Graphite-API",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2018-11-07T11:49:29Z",
-            "owner": "InfluxGraph",
-            "repo": "influxgraph",
-            "stars": 92
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "FluxDash",
-          "description": "Terminal based InfluxDB dashboard",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2016-03-30T20:57:13Z",
-            "owner": "vrecan",
-            "repo": "FluxDash",
-            "stars": 36
-          }
-        }
-      ],
-      "title": "Dashboards and visualization"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Morgoth",
-          "description": "Metric anomaly detection",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2022-11-14T15:47:54Z",
-            "owner": "nathanielc",
-            "repo": "morgoth",
-            "stars": 280
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "influx-alert",
-          "description": "A tool to query InfluxDB and send alerts based on a YAML config",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2016-11-21T16:41:31Z",
-            "owner": "joshrendek",
-            "repo": "influx-alert",
-            "stars": 34
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "influxdb_google_sheets",
-          "description": "Google Sheets script for fetching and formatting InfluxDB data",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-01-13T12:40:50Z",
-            "owner": "HormyAJP",
-            "repo": "influxdb_google_sheets",
-            "stars": 17
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "hubot-influxdb-alerts",
-          "description": "Create and manage alerts in your chatroom using hubot and influxdb",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CoffeeScript",
-            "last_commit": "2015-12-17T02:47:14Z",
-            "owner": "amwelch",
-            "repo": "hubot-influxdb-alerts",
-            "stars": 10
-          }
-        }
-      ],
-      "title": "Other tools"
     },
     {
       "description": "Tools, libraries, etc. to help you get InfluxDB running without installing it by hand.",
@@ -1500,6 +1590,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 19998465,
             "language": "Shell",
             "last_commit": "2017-03-31T21:44:53Z",
             "owner": "docker-archive",
@@ -1514,6 +1605,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14350325,
             "language": "Ruby",
             "last_commit": "2022-05-16T14:43:23Z",
             "owner": "bdangit",
@@ -1528,6 +1620,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 45572851,
             "language": "Jinja",
             "last_commit": "2024-11-18T20:45:31Z",
             "owner": "rossmcdonald",
@@ -1542,6 +1635,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26047329,
             "language": "Ruby",
             "last_commit": "2023-09-01T09:46:07Z",
             "owner": "dgolja",
@@ -1556,6 +1650,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23285907,
             "language": "Ruby",
             "last_commit": "2023-07-07T08:17:40Z",
             "owner": "saltstack-formulas",
@@ -1570,6 +1665,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 32605429,
             "language": "Shell",
             "last_commit": "2022-03-24T16:00:32Z",
             "owner": "pivotal-cf-experimental",
@@ -1581,7 +1677,7 @@
       "title": "Provisioning InfluxDB"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1590,6 +1686,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 153904179,
             "language": "TypeScript",
             "last_commit": "2026-08-13T16:59:10Z",
             "owner": "timeseriesadmin",
@@ -1604,6 +1701,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22431046,
             "language": "Ruby",
             "last_commit": "2024-10-12T12:50:08Z",
             "owner": "palkan",
@@ -1618,6 +1716,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24586896,
             "language": "Ruby",
             "last_commit": "2016-08-11T12:26:56Z",
             "owner": "undr",
@@ -1632,6 +1731,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 38334123,
             "language": "PHP",
             "last_commit": "2015-07-01T19:05:09Z",
             "owner": "corley-archive",
@@ -1652,6 +1752,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 129517364,
             "language": "Python",
             "last_commit": "2022-12-09T05:26:05Z",
             "owner": "RPing",
@@ -1666,6 +1767,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 234074602,
             "language": "Python",
             "last_commit": "2022-12-26T20:24:00Z",
             "owner": "Transatel",
@@ -1680,6 +1782,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 75934229,
             "language": "Go",
             "last_commit": "2017-02-21T15:21:37Z",
             "owner": "ve-global",
@@ -1694,6 +1797,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 132623207,
             "language": "Perl",
             "last_commit": "2020-03-27T13:14:51Z",
             "owner": "open-ch",
@@ -1705,171 +1809,180 @@
       "title": "Miscellaneous"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "awesome-go",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21540759,
+                "language": "Go",
+                "last_commit": "2026-08-19T09:52:23Z",
+                "owner": "avelino",
+                "repo": "awesome-go",
+                "stars": 181510
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-sysadmin",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 16677706,
+                "language": null,
+                "last_commit": "2024-03-26T23:45:17Z",
+                "owner": "kahun",
+                "repo": "awesome-sysadmin",
+                "stars": 24349
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-bigdata",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21500692,
+                "language": null,
+                "last_commit": "2026-07-31T12:51:12Z",
+                "owner": "oxnr",
+                "repo": "awesome-bigdata",
+                "stars": 14532
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-microservices",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 34987697,
+                "language": null,
+                "last_commit": "2026-06-10T15:05:12Z",
+                "owner": "mfornos",
+                "repo": "awesome-microservices",
+                "stars": 14483
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-data-engineering",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 37680686,
+                "language": null,
+                "last_commit": "2026-07-18T15:19:21Z",
+                "owner": "igorbarinov",
+                "repo": "awesome-data-engineering",
+                "stars": 8961
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-home-assistant",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 142909126,
+                "language": "Python",
+                "last_commit": "2026-08-14T06:36:15Z",
+                "owner": "frenck",
+                "repo": "awesome-home-assistant",
+                "stars": 8347
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-db",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22630633,
+                "language": null,
+                "last_commit": "2024-03-04T12:40:15Z",
+                "owner": "numetriclabz",
+                "repo": "awesome-db",
+                "stars": 1377
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "awesome-dashboard",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 24758659,
+                "language": null,
+                "last_commit": "2026-08-01T09:30:49Z",
+                "owner": "obazoud",
+                "repo": "awesome-dashboard",
+                "stars": 1169
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Awesome lists that include links to InfluxDB"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "awesome",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21737465,
+                "language": null,
+                "last_commit": "2026-08-18T13:28:50Z",
+                "owner": "sindresorhus",
+                "repo": "awesome",
+                "stars": 497664
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lists",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14408715,
+                "language": null,
+                "last_commit": "2026-03-23T20:19:22Z",
+                "owner": "jnv",
+                "repo": "lists",
+                "stars": 11422
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Lists of awesome lists that include awesome-influxdb"
+        }
+      ],
       "title": "Other awesome lists"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "awesome-go",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-19T03:38:37Z",
-            "owner": "avelino",
-            "repo": "awesome-go",
-            "stars": 181457
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "awesome-sysadmin",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-03-26T23:45:17Z",
-            "owner": "kahun",
-            "repo": "awesome-sysadmin",
-            "stars": 24348
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "awesome-bigdata",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-07-31T12:51:12Z",
-            "owner": "oxnr",
-            "repo": "awesome-bigdata",
-            "stars": 14532
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "awesome-microservices",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-06-10T15:05:12Z",
-            "owner": "mfornos",
-            "repo": "awesome-microservices",
-            "stars": 14483
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "awesome-data-engineering",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-07-18T15:19:21Z",
-            "owner": "igorbarinov",
-            "repo": "awesome-data-engineering",
-            "stars": 8959
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "awesome-home-assistant",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-14T06:36:15Z",
-            "owner": "frenck",
-            "repo": "awesome-home-assistant",
-            "stars": 8345
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "awesome-db",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-03-04T12:40:15Z",
-            "owner": "numetriclabz",
-            "repo": "awesome-db",
-            "stars": 1377
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "awesome-dashboard",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-08-01T09:30:49Z",
-            "owner": "obazoud",
-            "repo": "awesome-dashboard",
-            "stars": 1169
-          }
-        }
-      ],
-      "title": "Awesome lists that include links to InfluxDB"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "awesome",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-08-18T13:28:50Z",
-            "owner": "sindresorhus",
-            "repo": "awesome",
-            "stars": 497490
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "lists",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-03-23T20:19:22Z",
-            "owner": "jnv",
-            "repo": "lists",
-            "stars": 11422
-          }
-        }
-      ],
-      "title": "Lists of awesome lists that include awesome-influxdb"
-    },
-    {
-      "description": "To the extent possible under law, the authors and contributors have waived all copyright and related or neighboring rights to awesome-influxdb.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T04:18:36.864Z",
+    "last_updated": "2026-08-19T12:38:04.874Z",
     "original_repository": "mark-rushakoff/awesome-influxdb",
+    "original_repository_id": 39356321,
     "original_repository_sha": "7e22981080cb08302ed3da861d6b12ec31aec88f",
     "enhanced_repository": "enhansome/enhansome-influxdb",
     "enhanced_repository_description": null,
