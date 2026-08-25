@@ -32,7 +32,7 @@
                 "last_commit": "2026-03-01T14:48:38Z",
                 "owner": "influxdata",
                 "repo": "influxdb-java",
-                "stars": 1196
+                "stars": 1195
               }
             },
             {
@@ -414,7 +414,7 @@
                     "last_commit": "2026-08-24T22:02:56Z",
                     "owner": "influxdata",
                     "repo": "telegraf",
-                    "stars": 17764
+                    "stars": 17765
                   }
                 },
                 {
@@ -1409,10 +1409,10 @@
                 "archived": false,
                 "id": 15111821,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T04:17:21Z",
+                "last_commit": "2026-08-25T05:32:12Z",
                 "owner": "grafana",
                 "repo": "grafana",
-                "stars": 76396
+                "stars": 76397
               }
             },
             {
@@ -1825,7 +1825,7 @@
                 "last_commit": "2026-08-25T00:32:48Z",
                 "owner": "avelino",
                 "repo": "awesome-go",
-                "stars": 182165
+                "stars": 182171
               }
             },
             {
@@ -1952,7 +1952,7 @@
                 "last_commit": "2026-08-21T12:39:13Z",
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 499671
+                "stars": 499703
               }
             },
             {
@@ -1980,7 +1980,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T04:19:33.314Z",
+    "last_updated": "2026-08-25T06:09:55.684Z",
     "original_repository": "mark-rushakoff/awesome-influxdb",
     "original_repository_id": 39356321,
     "original_repository_sha": "7e22981080cb08302ed3da861d6b12ec31aec88f",
