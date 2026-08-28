@@ -18,7 +18,8 @@
                 "owner": "influxdata",
                 "repo": "influxdb-python",
                 "stars": 1692
-              }
+              },
+              "first_seen": "2026-08-28T15:38:03.904Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "influxdata",
                 "repo": "influxdb-java",
                 "stars": 1195
-              }
+              },
+              "first_seen": "2026-08-28T15:38:03.904Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "influxdata",
                 "repo": "influxdb-php",
                 "stars": 426
-              }
+              },
+              "first_seen": "2026-08-28T15:38:03.904Z"
             },
             {
               "node_type": "item",
@@ -63,7 +66,8 @@
                 "owner": "InfluxCommunity",
                 "repo": "influxdb-ruby",
                 "stars": 371
-              }
+              },
+              "first_seen": "2026-08-28T15:38:03.904Z"
             },
             {
               "node_type": "item",
@@ -78,7 +82,8 @@
                 "owner": "influxdata",
                 "repo": "influxdb-csharp",
                 "stars": 198
-              }
+              },
+              "first_seen": "2026-08-28T15:38:03.904Z"
             },
             {
               "node_type": "item",
@@ -93,7 +98,8 @@
                 "owner": "influxdata",
                 "repo": "influxdb1-client",
                 "stars": 192
-              }
+              },
+              "first_seen": "2026-08-28T15:38:03.904Z"
             },
             {
               "node_type": "item",
@@ -108,7 +114,8 @@
                 "owner": "influxdata",
                 "repo": "influxdb-rails",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T15:38:03.904Z"
             }
           ],
           "description": null,
@@ -130,7 +137,8 @@
                 "owner": "node-influx",
                 "repo": "node-influx",
                 "stars": 864
-              }
+              },
+              "first_seen": "2026-08-28T15:38:03.904Z"
             },
             {
               "node_type": "item",
@@ -145,7 +153,8 @@
                 "owner": "tobiasschuerg",
                 "repo": "InfluxDB-Client-for-Arduino",
                 "stars": 414
-              }
+              },
+              "first_seen": "2026-08-28T15:38:03.904Z"
             },
             {
               "node_type": "item",
@@ -160,7 +169,8 @@
                 "owner": "mneudert",
                 "repo": "instream",
                 "stars": 228
-              }
+              },
+              "first_seen": "2026-08-28T15:38:03.904Z"
             },
             {
               "node_type": "item",
@@ -175,7 +185,8 @@
                 "owner": "bugthesystem",
                 "repo": "InfluxDB.Net",
                 "stars": 163
-              }
+              },
+              "first_seen": "2026-08-28T15:38:03.904Z"
             },
             {
               "node_type": "item",
@@ -190,7 +201,8 @@
                 "owner": "paulgoldbaum",
                 "repo": "scala-influxdb-client",
                 "stars": 122
-              }
+              },
+              "first_seen": "2026-08-28T15:38:03.904Z"
             },
             {
               "node_type": "item",
@@ -205,7 +217,8 @@
                 "owner": "lexmag",
                 "repo": "fluxter",
                 "stars": 106
-              }
+              },
+              "first_seen": "2026-08-28T15:38:03.904Z"
             },
             {
               "node_type": "item",
@@ -220,7 +233,8 @@
                 "owner": "dleutnant",
                 "repo": "influxdbr",
                 "stars": 92
-              }
+              },
+              "first_seen": "2026-08-28T15:38:03.904Z"
             },
             {
               "node_type": "item",
@@ -235,7 +249,8 @@
                 "owner": "corley-archive",
                 "repo": "influxdb-php-sdk",
                 "stars": 84
-              }
+              },
+              "first_seen": "2026-08-28T15:38:03.904Z"
             },
             {
               "node_type": "item",
@@ -250,7 +265,8 @@
                 "owner": "olauzon",
                 "repo": "capacitor",
                 "stars": 63
-              }
+              },
+              "first_seen": "2026-08-28T15:38:03.904Z"
             },
             {
               "node_type": "item",
@@ -265,7 +281,8 @@
                 "owner": "maoe",
                 "repo": "influxdb-haskell",
                 "stars": 55
-              }
+              },
+              "first_seen": "2026-08-28T15:38:03.904Z"
             },
             {
               "node_type": "item",
@@ -280,7 +297,8 @@
                 "owner": "d-led",
                 "repo": "influxdb-cpp-rest",
                 "stars": 51
-              }
+              },
+              "first_seen": "2026-08-28T15:38:03.904Z"
             },
             {
               "node_type": "item",
@@ -295,7 +313,8 @@
                 "owner": "gobwas",
                 "repo": "influent.rs",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-28T15:38:03.904Z"
             },
             {
               "node_type": "item",
@@ -310,7 +329,8 @@
                 "owner": "gobwas",
                 "repo": "influent",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-28T15:38:03.904Z"
             },
             {
               "node_type": "item",
@@ -325,7 +345,8 @@
                 "owner": "gossiperl",
                 "repo": "erflux",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T15:38:03.904Z"
             },
             {
               "node_type": "item",
@@ -340,7 +361,8 @@
                 "owner": "mmaul",
                 "repo": "cl-influxdb",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T15:38:03.904Z"
             },
             {
               "node_type": "item",
@@ -355,7 +377,8 @@
                 "owner": "johanvandenbroek",
                 "repo": "InfluxDB-Client-LabVIEW",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T15:38:03.904Z"
             },
             {
               "node_type": "item",
@@ -370,7 +393,8 @@
                 "owner": "stores-com",
                 "repo": "node-influx-udp",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T15:38:03.904Z"
             }
           ],
           "description": null,
@@ -396,11 +420,12 @@
                     "archived": false,
                     "id": 54400687,
                     "language": "Go",
-                    "last_commit": "2026-08-27T13:43:43Z",
+                    "last_commit": "2026-08-28T14:57:29Z",
                     "owner": "grafana",
                     "repo": "k6",
-                    "stars": 31333
-                  }
+                    "stars": 31347
+                  },
+                  "first_seen": "2026-08-28T15:38:03.904Z"
                 },
                 {
                   "node_type": "item",
@@ -414,8 +439,9 @@
                     "last_commit": "2026-08-26T18:55:34Z",
                     "owner": "influxdata",
                     "repo": "telegraf",
-                    "stars": 17772
-                  }
+                    "stars": 17776
+                  },
+                  "first_seen": "2026-08-28T15:38:03.904Z"
                 },
                 {
                   "node_type": "item",
@@ -430,7 +456,8 @@
                     "owner": "codersaur",
                     "repo": "SmartThings",
                     "stars": 318
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:38:03.904Z"
                 },
                 {
                   "node_type": "item",
@@ -445,7 +472,8 @@
                     "owner": "toni-moreno",
                     "repo": "snmpcollector",
                     "stars": 306
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:38:03.904Z"
                 },
                 {
                   "node_type": "item",
@@ -460,7 +488,8 @@
                     "owner": "Oxalide",
                     "repo": "vsphere-influxdb-go",
                     "stars": 213
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:38:03.904Z"
                 },
                 {
                   "node_type": "item",
@@ -475,7 +504,8 @@
                     "owner": "coussej",
                     "repo": "node-opcua-logger",
                     "stars": 184
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:38:03.904Z"
                 },
                 {
                   "node_type": "item",
@@ -490,7 +520,8 @@
                     "owner": "shirou",
                     "repo": "mqforward",
                     "stars": 81
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:38:03.904Z"
                 },
                 {
                   "node_type": "item",
@@ -505,7 +536,8 @@
                     "owner": "zensqlmonitor",
                     "repo": "influxdb-sqlserver",
                     "stars": 72
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:38:03.904Z"
                 },
                 {
                   "node_type": "item",
@@ -520,7 +552,8 @@
                     "owner": "att-innovate",
                     "repo": "charmander",
                     "stars": 67
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:38:03.904Z"
                 },
                 {
                   "node_type": "item",
@@ -535,7 +568,8 @@
                     "owner": "poxet",
                     "repo": "Influx-Capacitor",
                     "stars": 45
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:38:03.904Z"
                 },
                 {
                   "node_type": "item",
@@ -550,7 +584,8 @@
                     "owner": "influxdata",
                     "repo": "grade",
                     "stars": 43
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:38:03.904Z"
                 },
                 {
                   "node_type": "item",
@@ -565,7 +600,8 @@
                     "owner": "chrissnell",
                     "repo": "remoteweather",
                     "stars": 32
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:38:03.904Z"
                 },
                 {
                   "node_type": "item",
@@ -580,7 +616,8 @@
                     "owner": "FaradayRF",
                     "repo": "aprs2influxdb",
                     "stars": 29
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:38:03.904Z"
                 },
                 {
                   "node_type": "item",
@@ -595,7 +632,8 @@
                     "owner": "abrander",
                     "repo": "agento",
                     "stars": 28
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:38:03.904Z"
                 },
                 {
                   "node_type": "item",
@@ -606,11 +644,12 @@
                     "archived": false,
                     "id": 14440001,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-27T02:03:11Z",
+                    "last_commit": "2026-08-28T02:03:07Z",
                     "owner": "timdorr",
                     "repo": "tesla-trip",
                     "stars": 19
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:38:03.904Z"
                 },
                 {
                   "node_type": "item",
@@ -625,7 +664,8 @@
                     "owner": "CorpGlory",
                     "repo": "accelerometer2influx",
                     "stars": 18
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:38:03.904Z"
                 },
                 {
                   "node_type": "item",
@@ -640,7 +680,8 @@
                     "owner": "kpacha",
                     "repo": "mesos-influxdb-collector",
                     "stars": 16
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:38:03.904Z"
                 },
                 {
                   "node_type": "item",
@@ -655,7 +696,8 @@
                     "owner": "ccpgames",
                     "repo": "aggregateD",
                     "stars": 14
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:38:03.904Z"
                 },
                 {
                   "node_type": "item",
@@ -670,7 +712,8 @@
                     "owner": "vsavornin",
                     "repo": "Influxdb-Powershell",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:38:03.904Z"
                 },
                 {
                   "node_type": "item",
@@ -685,7 +728,8 @@
                     "owner": "fss1",
                     "repo": "ntp_checker",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:38:03.904Z"
                 },
                 {
                   "node_type": "item",
@@ -700,7 +744,8 @@
                     "owner": "Wikia",
                     "repo": "marathon-event-metrics",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:38:03.904Z"
                 },
                 {
                   "node_type": "item",
@@ -715,7 +760,8 @@
                     "owner": "d-led",
                     "repo": "proc_to_influxdb",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:38:03.904Z"
                 }
               ],
               "description": "Tools whose primary or sole purpose is to feed data into InfluxDB.",
@@ -733,11 +779,12 @@
                     "archived": false,
                     "id": 2909429,
                     "language": "Python",
-                    "last_commit": "2026-08-26T14:06:06Z",
+                    "last_commit": "2026-08-27T17:06:35Z",
                     "owner": "nicolargo",
                     "repo": "glances",
-                    "stars": 33452
-                  }
+                    "stars": 33456
+                  },
+                  "first_seen": "2026-08-28T15:38:03.904Z"
                 },
                 {
                   "node_type": "item",
@@ -751,8 +798,9 @@
                     "last_commit": "2026-07-20T21:23:51Z",
                     "owner": "google",
                     "repo": "cadvisor",
-                    "stars": 19382
-                  }
+                    "stars": 19383
+                  },
+                  "first_seen": "2026-08-28T15:38:03.904Z"
                 },
                 {
                   "node_type": "item",
@@ -763,11 +811,12 @@
                     "archived": false,
                     "id": 1826128,
                     "language": "Scala",
-                    "last_commit": "2026-08-25T11:51:30Z",
+                    "last_commit": "2026-08-28T08:26:05Z",
                     "owner": "gatling",
                     "repo": "gatling",
                     "stars": 6953
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:38:03.904Z"
                 },
                 {
                   "node_type": "item",
@@ -782,7 +831,8 @@
                     "owner": "riemann",
                     "repo": "riemann",
                     "stars": 4268
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:38:03.904Z"
                 },
                 {
                   "node_type": "item",
@@ -797,7 +847,8 @@
                     "owner": "mozilla-services",
                     "repo": "heka",
                     "stars": 3394
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:38:03.904Z"
                 },
                 {
                   "node_type": "item",
@@ -812,7 +863,8 @@
                     "owner": "kubernetes-retired",
                     "repo": "heapster",
                     "stars": 2634
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:38:03.904Z"
                 },
                 {
                   "node_type": "item",
@@ -827,7 +879,8 @@
                     "owner": "statsite",
                     "repo": "statsite",
                     "stars": 1818
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:38:03.904Z"
                 },
                 {
                   "node_type": "item",
@@ -842,7 +895,8 @@
                     "owner": "jmxtrans",
                     "repo": "jmxtrans",
                     "stars": 1702
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:38:03.904Z"
                 },
                 {
                   "node_type": "item",
@@ -857,7 +911,8 @@
                     "owner": "causiq",
                     "repo": "logary",
                     "stars": 531
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:38:03.904Z"
                 },
                 {
                   "node_type": "item",
@@ -872,7 +927,8 @@
                     "owner": "sematext",
                     "repo": "logagent-js",
                     "stars": 391
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:38:03.904Z"
                 },
                 {
                   "node_type": "item",
@@ -887,7 +943,8 @@
                     "owner": "etsy",
                     "repo": "statsd-jvm-profiler",
                     "stars": 335
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:38:03.904Z"
                 },
                 {
                   "node_type": "item",
@@ -902,7 +959,8 @@
                     "owner": "postmates",
                     "repo": "cernan",
                     "stars": 314
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:38:03.904Z"
                 },
                 {
                   "node_type": "item",
@@ -917,7 +975,8 @@
                     "owner": "shawn-sterling",
                     "repo": "graphios",
                     "stars": 288
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:38:03.904Z"
                 },
                 {
                   "node_type": "item",
@@ -928,11 +987,12 @@
                     "archived": false,
                     "id": 496143272,
                     "language": "PHP",
-                    "last_commit": "2026-08-27T14:34:38Z",
+                    "last_commit": "2026-08-28T15:09:32Z",
                     "owner": "centreon",
                     "repo": "centreon",
                     "stars": 162
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:38:03.904Z"
                 },
                 {
                   "node_type": "item",
@@ -947,7 +1007,8 @@
                     "owner": "pstadler",
                     "repo": "metrics.sh",
                     "stars": 144
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:38:03.904Z"
                 },
                 {
                   "node_type": "item",
@@ -962,7 +1023,8 @@
                     "owner": "bbc",
                     "repo": "news-gem-cloudwatch-sender",
                     "stars": 53
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:38:03.904Z"
                 },
                 {
                   "node_type": "item",
@@ -973,11 +1035,12 @@
                     "archived": false,
                     "id": 47922419,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-27T14:19:21Z",
+                    "last_commit": "2026-08-28T14:09:25Z",
                     "owner": "ioBroker",
                     "repo": "ioBroker.influxdb",
                     "stars": 37
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:38:03.904Z"
                 },
                 {
                   "node_type": "item",
@@ -992,7 +1055,8 @@
                     "owner": "sematext",
                     "repo": "sematext-agent-integrations",
                     "stars": 13
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:38:03.904Z"
                 },
                 {
                   "node_type": "item",
@@ -1007,7 +1071,8 @@
                     "owner": "fullcontact",
                     "repo": "crankshaftd",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:38:03.904Z"
                 },
                 {
                   "node_type": "item",
@@ -1022,7 +1087,8 @@
                     "owner": "precurse",
                     "repo": "internet_data_usage",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:38:03.904Z"
                 }
               ],
               "description": "Tools that generate data that feed into multiple backends, InfluxDB included.",
@@ -1045,11 +1111,12 @@
                 "archived": false,
                 "id": 4423633,
                 "language": "PHP",
-                "last_commit": "2026-08-27T13:23:57Z",
+                "last_commit": "2026-08-28T14:51:01Z",
                 "owner": "beberlei",
                 "repo": "metrics",
                 "stars": 323
-              }
+              },
+              "first_seen": "2026-08-28T15:38:03.904Z"
             },
             {
               "node_type": "item",
@@ -1064,7 +1131,8 @@
                 "owner": "tevjef",
                 "repo": "go-runtime-metrics",
                 "stars": 287
-              }
+              },
+              "first_seen": "2026-08-28T15:38:03.904Z"
             },
             {
               "node_type": "item",
@@ -1079,7 +1147,8 @@
                 "owner": "bitlabstudio",
                 "repo": "django-influxdb-metrics",
                 "stars": 86
-              }
+              },
+              "first_seen": "2026-08-28T15:38:03.904Z"
             },
             {
               "node_type": "item",
@@ -1094,7 +1163,8 @@
                 "owner": "p0pr0ck5",
                 "repo": "lua-resty-influx",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T15:38:03.904Z"
             },
             {
               "node_type": "item",
@@ -1109,7 +1179,8 @@
                 "owner": "fennm",
                 "repo": "pyVsphereInflux",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T15:38:03.904Z"
             },
             {
               "children": [
@@ -1126,7 +1197,8 @@
                     "owner": "vrischmann",
                     "repo": "go-metrics-influxdb",
                     "stars": 69
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:38:03.904Z"
                 },
                 {
                   "node_type": "item",
@@ -1141,7 +1213,8 @@
                     "owner": "abramovic",
                     "repo": "logrus_influxdb",
                     "stars": 26
-                  }
+                  },
+                  "first_seen": "2026-08-28T15:38:03.904Z"
                 }
               ],
               "description": "Hooks for other logging libraries to output to InfluxDB.",
@@ -1168,7 +1241,8 @@
                 "owner": "davidB",
                 "repo": "metrics-influxdb",
                 "stars": 272
-              }
+              },
+              "first_seen": "2026-08-28T15:38:03.904Z"
             },
             {
               "node_type": "item",
@@ -1183,7 +1257,8 @@
                 "owner": "mre",
                 "repo": "kafka-influxdb",
                 "stars": 218
-              }
+              },
+              "first_seen": "2026-08-28T15:38:03.904Z"
             },
             {
               "node_type": "item",
@@ -1198,7 +1273,8 @@
                 "owner": "bernd",
                 "repo": "statsd-influxdb-backend",
                 "stars": 169
-              }
+              },
+              "first_seen": "2026-08-28T15:38:03.904Z"
             },
             {
               "node_type": "item",
@@ -1213,7 +1289,8 @@
                 "owner": "fangli",
                 "repo": "fluent-plugin-influxdb",
                 "stars": 109
-              }
+              },
+              "first_seen": "2026-08-28T15:38:03.904Z"
             },
             {
               "node_type": "item",
@@ -1228,7 +1305,8 @@
                 "owner": "logstash-plugins",
                 "repo": "logstash-output-influxdb",
                 "stars": 59
-              }
+              },
+              "first_seen": "2026-08-28T15:38:03.904Z"
             },
             {
               "node_type": "item",
@@ -1243,7 +1321,8 @@
                 "owner": "jenkinsci",
                 "repo": "influxdb-plugin",
                 "stars": 56
-              }
+              },
+              "first_seen": "2026-08-28T15:38:03.904Z"
             },
             {
               "node_type": "item",
@@ -1258,7 +1337,8 @@
                 "owner": "travelping",
                 "repo": "exometer_influxdb",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-28T15:38:03.904Z"
             },
             {
               "node_type": "item",
@@ -1273,7 +1353,8 @@
                 "owner": "shaharke",
                 "repo": "influx-nagios-plugin",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T15:38:03.904Z"
             },
             {
               "node_type": "item",
@@ -1288,7 +1369,8 @@
                 "owner": "sensu-plugins",
                 "repo": "sensu-plugins-influxdb",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T15:38:03.904Z"
             },
             {
               "node_type": "item",
@@ -1303,7 +1385,8 @@
                 "owner": "funbox",
                 "repo": "sidekiq-influxdb",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T15:38:03.904Z"
             },
             {
               "node_type": "item",
@@ -1318,7 +1401,8 @@
                 "owner": "savoirfairelinux",
                 "repo": "mod-influxdb",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T15:38:03.904Z"
             },
             {
               "node_type": "item",
@@ -1333,7 +1417,8 @@
                 "owner": "intelsdi-x",
                 "repo": "snap-plugin-publisher-influxdb",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-28T15:38:03.904Z"
             },
             {
               "node_type": "item",
@@ -1348,7 +1433,8 @@
                 "owner": "joker1007",
                 "repo": "embulk-output-influxdb",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T15:38:03.904Z"
             }
           ],
           "description": "Plugins to allow other standalone tools to send their data into InfluxDB.",
@@ -1370,7 +1456,8 @@
                 "owner": "adejoux",
                 "repo": "nmon2influxdb",
                 "stars": 80
-              }
+              },
+              "first_seen": "2026-08-28T15:38:03.904Z"
             },
             {
               "node_type": "item",
@@ -1385,7 +1472,8 @@
                 "owner": "soprasteria",
                 "repo": "jmeter2influxdb",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T15:38:03.904Z"
             }
           ],
           "description": "Tools to import a fixed set of data into InfluxDB.",
@@ -1409,11 +1497,12 @@
                 "archived": false,
                 "id": 15111821,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T14:33:34Z",
+                "last_commit": "2026-08-28T15:37:26Z",
                 "owner": "grafana",
                 "repo": "grafana",
-                "stars": 76450
-              }
+                "stars": 76461
+              },
+              "first_seen": "2026-08-28T15:38:03.904Z"
             },
             {
               "node_type": "item",
@@ -1428,7 +1517,8 @@
                 "owner": "influxdata",
                 "repo": "chronograf",
                 "stars": 1567
-              }
+              },
+              "first_seen": "2026-08-28T15:38:03.904Z"
             },
             {
               "node_type": "item",
@@ -1443,7 +1533,8 @@
                 "owner": "facette",
                 "repo": "facette",
                 "stars": 1158
-              }
+              },
+              "first_seen": "2026-08-28T15:38:03.904Z"
             },
             {
               "node_type": "item",
@@ -1458,7 +1549,8 @@
                 "owner": "meverett",
                 "repo": "InfluxDBStudio",
                 "stars": 931
-              }
+              },
+              "first_seen": "2026-08-28T15:38:03.904Z"
             },
             {
               "node_type": "item",
@@ -1473,7 +1565,8 @@
                 "owner": "ostrost",
                 "repo": "ostent",
                 "stars": 178
-              }
+              },
+              "first_seen": "2026-08-28T15:38:03.904Z"
             },
             {
               "node_type": "item",
@@ -1488,7 +1581,8 @@
                 "owner": "InfluxGraph",
                 "repo": "influxgraph",
                 "stars": 92
-              }
+              },
+              "first_seen": "2026-08-28T15:38:03.904Z"
             },
             {
               "node_type": "item",
@@ -1503,7 +1597,8 @@
                 "owner": "vrecan",
                 "repo": "FluxDash",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-28T15:38:03.904Z"
             }
           ],
           "description": null,
@@ -1525,7 +1620,8 @@
                 "owner": "nathanielc",
                 "repo": "morgoth",
                 "stars": 280
-              }
+              },
+              "first_seen": "2026-08-28T15:38:03.904Z"
             },
             {
               "node_type": "item",
@@ -1540,7 +1636,8 @@
                 "owner": "joshrendek",
                 "repo": "influx-alert",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T15:38:03.904Z"
             },
             {
               "node_type": "item",
@@ -1555,7 +1652,8 @@
                 "owner": "HormyAJP",
                 "repo": "influxdb_google_sheets",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T15:38:03.904Z"
             },
             {
               "node_type": "item",
@@ -1570,7 +1668,8 @@
                 "owner": "amwelch",
                 "repo": "hubot-influxdb-alerts",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T15:38:03.904Z"
             }
           ],
           "description": null,
@@ -1596,7 +1695,8 @@
             "owner": "docker-archive",
             "repo": "tutum-influxdb",
             "stars": 221
-          }
+          },
+          "first_seen": "2026-08-28T15:38:03.904Z"
         },
         {
           "node_type": "item",
@@ -1611,7 +1711,8 @@
             "owner": "bdangit",
             "repo": "chef-influxdb",
             "stars": 53
-          }
+          },
+          "first_seen": "2026-08-28T15:38:03.904Z"
         },
         {
           "node_type": "item",
@@ -1626,7 +1727,8 @@
             "owner": "rossmcdonald",
             "repo": "influxdb",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-28T15:38:03.904Z"
         },
         {
           "node_type": "item",
@@ -1641,7 +1743,8 @@
             "owner": "dgolja",
             "repo": "golja-influxdb",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T15:38:03.904Z"
         },
         {
           "node_type": "item",
@@ -1656,7 +1759,8 @@
             "owner": "saltstack-formulas",
             "repo": "influxdb-formula",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T15:38:03.904Z"
         },
         {
           "node_type": "item",
@@ -1671,7 +1775,8 @@
             "owner": "pivotal-cf-experimental",
             "repo": "influxdb-release",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T15:38:03.904Z"
         }
       ],
       "title": "Provisioning InfluxDB"
@@ -1688,11 +1793,12 @@
             "archived": false,
             "id": 153904179,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T10:52:14Z",
+            "last_commit": "2026-08-27T16:01:20Z",
             "owner": "timeseriesadmin",
             "repo": "timeseriesadmin",
             "stars": 141
-          }
+          },
+          "first_seen": "2026-08-28T15:38:03.904Z"
         },
         {
           "node_type": "item",
@@ -1707,7 +1813,8 @@
             "owner": "palkan",
             "repo": "influxer",
             "stars": 118
-          }
+          },
+          "first_seen": "2026-08-28T15:38:03.904Z"
         },
         {
           "node_type": "item",
@@ -1722,7 +1829,8 @@
             "owner": "undr",
             "repo": "influxdb-arel",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T15:38:03.904Z"
         },
         {
           "node_type": "item",
@@ -1737,7 +1845,8 @@
             "owner": "corley-archive",
             "repo": "dbal-influxdb",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T15:38:03.904Z"
         }
       ],
       "title": "Queries"
@@ -1758,7 +1867,8 @@
             "owner": "RPing",
             "repo": "influx-prompt",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T15:38:03.904Z"
         },
         {
           "node_type": "item",
@@ -1773,7 +1883,8 @@
             "owner": "Transatel",
             "repo": "cleanflux",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T15:38:03.904Z"
         },
         {
           "node_type": "item",
@@ -1788,7 +1899,8 @@
             "owner": "ve-global",
             "repo": "influx-protector",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T15:38:03.904Z"
         },
         {
           "node_type": "item",
@@ -1803,7 +1915,8 @@
             "owner": "open-ch",
             "repo": "influxdb-schema-updater",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T15:38:03.904Z"
         }
       ],
       "title": "Miscellaneous"
@@ -1825,8 +1938,9 @@
                 "last_commit": "2026-08-27T09:04:15Z",
                 "owner": "avelino",
                 "repo": "awesome-go",
-                "stars": 182411
-              }
+                "stars": 182518
+              },
+              "first_seen": "2026-08-28T15:38:03.904Z"
             },
             {
               "node_type": "item",
@@ -1841,7 +1955,8 @@
                 "owner": "kahun",
                 "repo": "awesome-sysadmin",
                 "stars": 24351
-              }
+              },
+              "first_seen": "2026-08-28T15:38:03.904Z"
             },
             {
               "node_type": "item",
@@ -1855,8 +1970,9 @@
                 "last_commit": "2026-07-31T12:51:12Z",
                 "owner": "oxnr",
                 "repo": "awesome-bigdata",
-                "stars": 14596
-              }
+                "stars": 14599
+              },
+              "first_seen": "2026-08-28T15:38:03.904Z"
             },
             {
               "node_type": "item",
@@ -1870,8 +1986,9 @@
                 "last_commit": "2026-08-20T15:52:41Z",
                 "owner": "mfornos",
                 "repo": "awesome-microservices",
-                "stars": 14494
-              }
+                "stars": 14497
+              },
+              "first_seen": "2026-08-28T15:38:03.904Z"
             },
             {
               "node_type": "item",
@@ -1885,8 +2002,9 @@
                 "last_commit": "2026-07-18T15:19:21Z",
                 "owner": "igorbarinov",
                 "repo": "awesome-data-engineering",
-                "stars": 8995
-              }
+                "stars": 8999
+              },
+              "first_seen": "2026-08-28T15:38:03.904Z"
             },
             {
               "node_type": "item",
@@ -1897,11 +2015,12 @@
                 "archived": false,
                 "id": 142909126,
                 "language": "Python",
-                "last_commit": "2026-08-21T06:14:59Z",
+                "last_commit": "2026-08-28T09:19:17Z",
                 "owner": "frenck",
                 "repo": "awesome-home-assistant",
-                "stars": 8383
-              }
+                "stars": 8389
+              },
+              "first_seen": "2026-08-28T15:38:03.904Z"
             },
             {
               "node_type": "item",
@@ -1916,7 +2035,8 @@
                 "owner": "numetriclabz",
                 "repo": "awesome-db",
                 "stars": 1379
-              }
+              },
+              "first_seen": "2026-08-28T15:38:03.904Z"
             },
             {
               "node_type": "item",
@@ -1930,8 +2050,9 @@
                 "last_commit": "2026-08-01T09:30:49Z",
                 "owner": "obazoud",
                 "repo": "awesome-dashboard",
-                "stars": 1173
-              }
+                "stars": 1174
+              },
+              "first_seen": "2026-08-28T15:38:03.904Z"
             }
           ],
           "description": null,
@@ -1952,8 +2073,9 @@
                 "last_commit": "2026-08-21T12:39:13Z",
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 500406
-              }
+                "stars": 500761
+              },
+              "first_seen": "2026-08-28T15:38:03.904Z"
             },
             {
               "node_type": "item",
@@ -1967,8 +2089,9 @@
                 "last_commit": "2026-03-23T20:19:22Z",
                 "owner": "jnv",
                 "repo": "lists",
-                "stars": 11438
-              }
+                "stars": 11441
+              },
+              "first_seen": "2026-08-28T15:38:03.904Z"
             }
           ],
           "description": null,
@@ -1980,7 +2103,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T14:35:24.554Z",
+    "last_updated": "2026-08-28T15:38:03.904Z",
     "original_repository_info": {
       "archived": false,
       "id": 39356321,
