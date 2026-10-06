@@ -96,7 +96,7 @@ Tools that generate data that feed into multiple backends, InfluxDB included.
 * [statsd-jvm-profiler](https://github.com/etsy/statsd-jvm-profiler) ⚠️ Archived - Simple JVM Profiler Using StatsD
 * [cernan](https://github.com/postmates/cernan) ⭐ 312 | 🐛 31 | 🌐 Rust | 📅 2023-06-14 - A telemetry and logging aggregation server
 * [Graphios](https://github.com/shawn-sterling/graphios) ⭐ 288 | 🐛 47 | 🌐 Python | 📅 2017-07-27 - A program to send nagios perf data to graphite (carbon) / statsd / librato / influxDB
-* [Centreon](https://github.com/centreon/centreon) ⭐ 164 | 🐛 325 | 🌐 PHP | 📅 2026-10-06 - A network, system, applicative supervision and monitoring tool
+* [Centreon](https://github.com/centreon/centreon) ⭐ 164 | 🐛 326 | 🌐 PHP | 📅 2026-10-06 - A network, system, applicative supervision and monitoring tool
 * [metrics.sh](https://github.com/pstadler/metrics.sh) ⭐ 144 | 🐛 2 | 🌐 Shell | 📅 2019-03-11 - Collect and forward metrics using portable shell scripts
 * [cloudwatch-sender](https://github.com/BBC-News/cloudwatch-sender) ⭐ 53 | 🐛 9 | 🌐 Ruby | 📅 2016-06-14 - Send metrics to InfluxDB/Graphite from [Amazon Cloudwatch](https://aws.amazon.com/cloudwatch/)
 * [ioBroker](http://www.iobroker.net/) - Homeautomation / IoT Platform uses Influxdb to store [history data](https://github.com/ioBroker/ioBroker.influxdb/blob/master/README.md) ⭐ 37 | 🐛 34 | 🌐 TypeScript | 📅 2026-10-03
@@ -158,7 +158,7 @@ Tools to import a fixed set of data into InfluxDB.
 
 ### Dashboards and visualization
 
-* [grafana](https://github.com/grafana/grafana) ⭐ 77,100 | 🐛 3,307 | 🌐 TypeScript | 📅 2026-10-06 - Gorgeous metric viz, dashboards & editors for Graphite, InfluxDB & OpenTSDB
+* [grafana](https://github.com/grafana/grafana) ⭐ 77,101 | 🐛 3,302 | 🌐 TypeScript | 📅 2026-10-06 - Gorgeous metric viz, dashboards & editors for Graphite, InfluxDB & OpenTSDB
 * [Chronograf](https://github.com/influxdata/chronograf) ⭐ 1,566 | 🐛 52 | 🌐 TypeScript | 📅 2026-10-04 - Official InfluxDB data visualization tool
 * [facette](https://github.com/facette/facette) ⭐ 1,158 | 🐛 41 | 🌐 Go | 📅 2021-10-05 - Time series data visualization and graphing software
 * [InfluxDB Studio](https://github.com/CymaticLabs/InfluxDBStudio) ⭐ 932 | 🐛 50 | 🌐 C# | 📅 2022-12-07 - InfluxDB Studio is a UI management tool, its inspiration comes from other similar SQL database management tools (use InfluxData.Net run on MS Windows)
@@ -213,7 +213,7 @@ Projects that don't seem to fit in any other category.
 
 ### Awesome lists that include links to InfluxDB
 
-* [awesome-go](https://github.com/avelino/awesome-go) ⭐ 187,181 | 🐛 67 | 🌐 Go | 📅 2026-10-06
+* [awesome-go](https://github.com/avelino/awesome-go) ⭐ 187,184 | 🐛 67 | 🌐 Go | 📅 2026-10-06
 * [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) ⭐ 24,355 | 🐛 273 | 📅 2024-03-26
 * [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata) ⭐ 14,660 | 🐛 6 | 📅 2026-07-31
 * [awesome-microservices](https://github.com/mfornos/awesome-microservices) ⭐ 14,532 | 🐛 17 | 📅 2026-08-20
@@ -224,7 +224,7 @@ Projects that don't seem to fit in any other category.
 
 ### Lists of awesome lists that include awesome-influxdb
 
-* [awesome](https://github.com/sindresorhus/awesome) ⭐ 515,362 | 🐛 106 | 📅 2026-09-02
+* [awesome](https://github.com/sindresorhus/awesome) ⭐ 515,373 | 🐛 106 | 📅 2026-09-02
 * [lists](https://github.com/jnv/lists) ⭐ 11,528 | 🐛 33 | 📅 2026-03-23
 
 ## License
