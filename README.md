@@ -53,8 +53,8 @@ If you know of any particularly useful blog posts, talks, slides, etc. that belo
 
 Tools whose primary or sole purpose is to feed data into InfluxDB.
 
-* [k6](https://github.com/loadimpact/k6) ⭐ 32,335 | 🐛 766 | 🌐 Go | 📅 2026-11-17 - A modern load testing tool, using Go and JavaScript
-* [Telegraf](https://github.com/influxdata/telegraf) ⭐ 17,909 | 🐛 447 | 🌐 Go | 📅 2026-11-17 - (Official) plugin-driven server agent for reporting metrics into InfluxDB
+* [k6](https://github.com/loadimpact/k6) ⭐ 32,345 | 🐛 769 | 🌐 Go | 📅 2026-11-18 - A modern load testing tool, using Go and JavaScript
+* [Telegraf](https://github.com/influxdata/telegraf) ⭐ 17,914 | 🐛 436 | 🌐 Go | 📅 2026-11-18 - (Official) plugin-driven server agent for reporting metrics into InfluxDB
 * [influxdb-logger](https://github.com/codersaur/SmartThings/tree/master/smartapps/influxdb-logger) ⭐ 320 | 🐛 55 | 🌐 Groovy | 📅 2024-04-18 - SmartApp to log [SmartThings](https://www.smartthings.com/) device attributes to an InfluxDB database
 * [snmpcollector](https://github.com/toni-moreno/snmpcollector) ⭐ 305 | 🐛 44 | 🌐 Go | 📅 2023-12-18 - A full featured Generic SNMP data collector with Web Administration Interface for InfluxDB
 * [vsphere-influxdb-go](https://github.com/Oxalide/vsphere-influxdb-go) ⭐ 208 | 🐛 21 | 🌐 Go | 📅 2020-04-01 - Collect VMware vSphere, vCenter and ESXi performance metrics and send them to InfluxDB
@@ -83,8 +83,8 @@ Tools whose primary or sole purpose is to feed data into InfluxDB.
 
 Tools that generate data that feed into multiple backends, InfluxDB included.
 
-* [Glances](https://github.com/nicolargo/glances) ⭐ 33,973 | 🐛 109 | 🌐 Python | 📅 2026-11-17 - Glances an Eye on your system
-* [cAdvisor](https://github.com/google/cadvisor) ⭐ 19,533 | 🐛 81 | 🌐 Go | 📅 2026-11-17 - Analyzes resource usage and performance characteristics of running containers
+* [Glances](https://github.com/nicolargo/glances) ⭐ 33,981 | 🐛 108 | 🌐 Python | 📅 2026-11-17 - Glances an Eye on your system
+* [cAdvisor](https://github.com/google/cadvisor) ⭐ 19,538 | 🐛 82 | 🌐 Go | 📅 2026-11-17 - Analyzes resource usage and performance characteristics of running containers
 * [gatling](https://github.com/gatling/gatling) ⭐ 6,964 | 🐛 15 | 🌐 Scala | 📅 2026-11-16 - Async Scala-Akka-Netty based Stress Tool
 * [Riemann](https://github.com/riemann/riemann) ⭐ 4,266 | 🐛 31 | 🌐 Clojure | 📅 2026-04-05 - A network event stream processing system, in Clojure
 * [heka](https://github.com/mozilla-services/heka) ⚠️ Archived - General purpose data collection and processing tool
@@ -96,10 +96,10 @@ Tools that generate data that feed into multiple backends, InfluxDB included.
 * [statsd-jvm-profiler](https://github.com/etsy/statsd-jvm-profiler) ⚠️ Archived - Simple JVM Profiler Using StatsD
 * [cernan](https://github.com/postmates/cernan) ⭐ 311 | 🐛 31 | 🌐 Rust | 📅 2023-06-14 - A telemetry and logging aggregation server
 * [Graphios](https://github.com/shawn-sterling/graphios) ⭐ 287 | 🐛 47 | 🌐 Python | 📅 2017-07-27 - A program to send nagios perf data to graphite (carbon) / statsd / librato / influxDB
-* [Centreon](https://github.com/centreon/centreon) ⭐ 170 | 🐛 385 | 🌐 PHP | 📅 2026-11-17 - A network, system, applicative supervision and monitoring tool
+* [Centreon](https://github.com/centreon/centreon) ⭐ 170 | 🐛 376 | 🌐 PHP | 📅 2026-11-18 - A network, system, applicative supervision and monitoring tool
 * [metrics.sh](https://github.com/pstadler/metrics.sh) ⭐ 143 | 🐛 2 | 🌐 Shell | 📅 2019-03-11 - Collect and forward metrics using portable shell scripts
 * [cloudwatch-sender](https://github.com/BBC-News/cloudwatch-sender) ⭐ 52 | 🐛 9 | 🌐 Ruby | 📅 2016-06-14 - Send metrics to InfluxDB/Graphite from [Amazon Cloudwatch](https://aws.amazon.com/cloudwatch/)
-* [ioBroker](http://www.iobroker.net/) - Homeautomation / IoT Platform uses Influxdb to store [history data](https://github.com/ioBroker/ioBroker.influxdb/blob/master/README.md) ⭐ 37 | 🐛 21 | 🌐 TypeScript | 📅 2026-11-17
+* [ioBroker](http://www.iobroker.net/) - Homeautomation / IoT Platform uses Influxdb to store [history data](https://github.com/ioBroker/ioBroker.influxdb/blob/master/README.md) ⭐ 37 | 🐛 23 | 🌐 TypeScript | 📅 2026-11-18
 * [Sematext Agent](https://github.com/sematext/sematext-agent-integrations) ⭐ 13 | 🐛 6 | 📅 2026-10-14 - [Open source monitoring agent](https://sematext.com/blog/now-open-source-sematext-monitoring-agent/) to collect metrics from Solr, Elasticsearch, Cassandra, JVM, JMX, ClickHouse, MySQL, Hadoop, and more via pluggable integrations. Output via Influx Line Protocol to InfluxDB or [Sematext Cloud](https://sematext.com/cloud/)
 * [crankshaftd](https://github.com/fullcontact/crankshaftd) ⚠️ Archived - Simple Go agent to ingest streaming data from [Turbine](https://github.com/Netflix/Turbine) ⚠️ Archived via SSE and push it into StatsD as a gauge or to InfluxDB
 * [internet\_data\_usage](https://github.com/precurse/internet_data_usage) ⭐ 2 | 🐛 1 | 🌐 Python | 📅 2015-11-20 - Python based application to pull data plan usage for different carriers such as Telus and Koodo
@@ -124,7 +124,7 @@ Libraries to collect data and feed into InfluxDB.
 Hooks for other logging libraries to output to InfluxDB.
 
 * [go-metrics-influxdb](https://github.com/vrischmann/go-metrics-influxdb) ⚠️ Archived - A reporter for the [go-metrics library](https://github.com/rcrowley/go-metrics) ⚠️ Archived which will post the metrics to InfluxDB
-* [logrus\_influxdb](https://github.com/Abramovic/logrus_influxdb) ⭐ 26 | 🐛 3 | 🌐 Go | 📅 2019-12-25 - InfluxDB Hook for [Logrus](https://github.com/Sirupsen/logrus) ⭐ 25,768 | 🐛 62 | 🌐 Go | 📅 2026-10-02
+* [logrus\_influxdb](https://github.com/Abramovic/logrus_influxdb) ⭐ 26 | 🐛 3 | 🌐 Go | 📅 2019-12-25 - InfluxDB Hook for [Logrus](https://github.com/Sirupsen/logrus) ⭐ 25,770 | 🐛 63 | 🌐 Go | 📅 2026-11-17
 
 ### Plugins
 
@@ -158,7 +158,7 @@ Tools to import a fixed set of data into InfluxDB.
 
 ### Dashboards and visualization
 
-* [grafana](https://github.com/grafana/grafana) ⭐ 77,959 | 🐛 3,308 | 🌐 TypeScript | 📅 2026-11-17 - Gorgeous metric viz, dashboards & editors for Graphite, InfluxDB & OpenTSDB
+* [grafana](https://github.com/grafana/grafana) ⭐ 77,986 | 🐛 3,340 | 🌐 TypeScript | 📅 2026-11-18 - Gorgeous metric viz, dashboards & editors for Graphite, InfluxDB & OpenTSDB
 * [Chronograf](https://github.com/influxdata/chronograf) ⭐ 1,569 | 🐛 55 | 🌐 TypeScript | 📅 2026-11-16 - Official InfluxDB data visualization tool
 * [facette](https://github.com/facette/facette) ⭐ 1,156 | 🐛 41 | 🌐 Go | 📅 2021-10-05 - Time series data visualization and graphing software
 * [InfluxDB Studio](https://github.com/CymaticLabs/InfluxDBStudio) ⭐ 930 | 🐛 50 | 🌐 C# | 📅 2022-12-07 - InfluxDB Studio is a UI management tool, its inspiration comes from other similar SQL database management tools (use InfluxData.Net run on MS Windows)
@@ -213,19 +213,19 @@ Projects that don't seem to fit in any other category.
 
 ### Awesome lists that include links to InfluxDB
 
-* [awesome-go](https://github.com/avelino/awesome-go) ⭐ 194,389 | 🐛 116 | 🌐 Go | 📅 2026-11-17
-* [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) ⭐ 24,360 | 🐛 274 | 📅 2024-03-26
+* [awesome-go](https://github.com/avelino/awesome-go) ⭐ 194,578 | 🐛 116 | 🌐 Go | 📅 2026-11-18
+* [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) ⭐ 24,364 | 🐛 275 | 📅 2024-03-26
 * [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata) ⭐ 14,741 | 🐛 0 | 📅 2026-11-13
-* [awesome-microservices](https://github.com/mfornos/awesome-microservices) ⭐ 14,579 | 🐛 26 | 📅 2026-08-20
-* [awesome-data-engineering](https://github.com/igorbarinov/awesome-data-engineering) ⭐ 9,269 | 🐛 18 | 📅 2026-11-10
-* [awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) ⭐ 8,682 | 🐛 36 | 🌐 Python | 📅 2026-11-16
+* [awesome-microservices](https://github.com/mfornos/awesome-microservices) ⭐ 14,582 | 🐛 27 | 📅 2026-08-20
+* [awesome-data-engineering](https://github.com/igorbarinov/awesome-data-engineering) ⭐ 9,273 | 🐛 18 | 📅 2026-11-10
+* [awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) ⭐ 8,687 | 🐛 36 | 🌐 Python | 📅 2026-11-16
 * [awesome-db](https://github.com/numetriclabz/awesome-db) ⭐ 1,378 | 🐛 39 | 📅 2024-03-04
-* [awesome-dashboard](https://github.com/obazoud/awesome-dashboard) ⭐ 1,198 | 🐛 11 | 📅 2026-11-09
+* [awesome-dashboard](https://github.com/obazoud/awesome-dashboard) ⭐ 1,197 | 🐛 11 | 📅 2026-11-09
 
 ### Lists of awesome lists that include awesome-influxdb
 
-* [awesome](https://github.com/sindresorhus/awesome) ⭐ 538,263 | 🐛 104 | 📅 2026-09-02
-* [lists](https://github.com/jnv/lists) ⭐ 11,666 | 🐛 7 | 📅 2026-11-05
+* [awesome](https://github.com/sindresorhus/awesome) ⭐ 538,775 | 🐛 104 | 📅 2026-09-02
+* [lists](https://github.com/jnv/lists) ⭐ 11,670 | 🐛 7 | 📅 2026-11-05
 
 ## License
 
@@ -235,4 +235,4 @@ To the extent possible under law, the authors and contributors have waived all c
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
