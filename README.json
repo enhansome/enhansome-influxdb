@@ -290,7 +290,7 @@
                 "open_issues": 8,
                 "owner": "paulgoldbaum",
                 "repo": "scala-influxdb-client",
-                "stars": 121,
+                "stars": 120,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:38:03.904Z"
@@ -611,11 +611,11 @@
                     "id": 54400687,
                     "language": "Go",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-11-26T10:11:03Z",
-                    "open_issues": 769,
+                    "last_commit": "2026-11-27T06:02:33Z",
+                    "open_issues": 773,
                     "owner": "grafana",
                     "repo": "k6",
-                    "stars": 32414,
+                    "stars": 32424,
                     "topics": [
                       "es6",
                       "go",
@@ -642,11 +642,11 @@
                     "id": 33258973,
                     "language": "Go",
                     "license": "MIT",
-                    "last_commit": "2026-11-26T10:54:52Z",
-                    "open_issues": 424,
+                    "last_commit": "2026-11-26T16:36:20Z",
+                    "open_issues": 430,
                     "owner": "influxdata",
                     "repo": "telegraf",
-                    "stars": 17923,
+                    "stars": 17924,
                     "topics": [
                       "golang",
                       "hacktoberfest",
@@ -1172,11 +1172,11 @@
                     "id": 2909429,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-11-26T05:21:58Z",
-                    "open_issues": 114,
+                    "last_commit": "2026-11-27T07:54:04Z",
+                    "open_issues": 111,
                     "owner": "nicolargo",
                     "repo": "glances",
-                    "stars": 34013,
+                    "stars": 34016,
                     "topics": [
                       "monitoring",
                       "multi-platform",
@@ -1203,10 +1203,10 @@
                     "language": "Go",
                     "license": "NOASSERTION",
                     "last_commit": "2026-11-20T16:00:13Z",
-                    "open_issues": 81,
+                    "open_issues": 80,
                     "owner": "google",
                     "repo": "cadvisor",
-                    "stars": 19557,
+                    "stars": 19559,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T15:38:03.904Z"
@@ -1227,7 +1227,7 @@
                     "open_issues": 15,
                     "owner": "gatling",
                     "repo": "gatling",
-                    "stars": 6967,
+                    "stars": 6968,
                     "topics": [
                       "automation",
                       "cicd",
@@ -1268,7 +1268,7 @@
                     "open_issues": 30,
                     "owner": "riemann",
                     "repo": "riemann",
-                    "stars": 4265,
+                    "stars": 4266,
                     "topics": [
                       "clojure",
                       "events",
@@ -1514,8 +1514,8 @@
                     "id": 496143272,
                     "language": "PHP",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-11-26T12:58:38Z",
-                    "open_issues": 384,
+                    "last_commit": "2026-11-27T12:47:06Z",
+                    "open_issues": 378,
                     "owner": "centreon",
                     "repo": "centreon",
                     "stars": 169,
@@ -2229,11 +2229,11 @@
                 "id": 15111821,
                 "language": "Go",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-26T13:03:19Z",
-                "open_issues": 3306,
+                "last_commit": "2026-11-27T13:00:23Z",
+                "open_issues": 3287,
                 "owner": "grafana",
                 "repo": "grafana",
-                "stars": 78199,
+                "stars": 78229,
                 "topics": [
                   "alerting",
                   "analytics",
@@ -2332,7 +2332,7 @@
                 "open_issues": 50,
                 "owner": "meverett",
                 "repo": "InfluxDBStudio",
-                "stars": 930,
+                "stars": 931,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:38:03.904Z"
@@ -2879,11 +2879,11 @@
                 "id": 21540759,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-11-25T23:48:54Z",
-                "open_issues": 108,
+                "last_commit": "2026-11-27T01:20:44Z",
+                "open_issues": 101,
                 "owner": "avelino",
                 "repo": "awesome-go",
-                "stars": 196073,
+                "stars": 196266,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2911,7 +2911,7 @@
                 "open_issues": 275,
                 "owner": "kahun",
                 "repo": "awesome-sysadmin",
-                "stars": 24368,
+                "stars": 24367,
                 "topics": []
               },
               "first_seen": "2026-08-28T15:38:03.904Z"
@@ -2932,7 +2932,7 @@
                 "open_issues": 1,
                 "owner": "oxnr",
                 "repo": "awesome-bigdata",
-                "stars": 14749,
+                "stars": 14750,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2969,7 +2969,7 @@
                 "open_issues": 30,
                 "owner": "mfornos",
                 "repo": "awesome-microservices",
-                "stars": 14595,
+                "stars": 14596,
                 "topics": [
                   "awesome",
                   "cloud-computing",
@@ -2993,10 +2993,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-11-25T21:10:58Z",
-                "open_issues": 26,
+                "open_issues": 28,
                 "owner": "igorbarinov",
                 "repo": "awesome-data-engineering",
-                "stars": 9297,
+                "stars": 9298,
                 "topics": [
                   "awesome",
                   "awesome-list"
@@ -3016,11 +3016,11 @@
                 "id": 142909126,
                 "language": "Python",
                 "license": "CC-BY-4.0",
-                "last_commit": "2026-11-23T21:11:37Z",
+                "last_commit": "2026-11-27T07:07:57Z",
                 "open_issues": 36,
                 "owner": "frenck",
                 "repo": "awesome-home-assistant",
-                "stars": 8713,
+                "stars": 8719,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -3075,7 +3075,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-11-09T19:47:10Z",
-                "open_issues": 13,
+                "open_issues": 12,
                 "owner": "obazoud",
                 "repo": "awesome-dashboard",
                 "stars": 1198,
@@ -3110,7 +3110,7 @@
                 "open_issues": 103,
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 543108,
+                "stars": 543705,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -3137,7 +3137,7 @@
                 "open_issues": 9,
                 "owner": "jnv",
                 "repo": "lists",
-                "stars": 11681,
+                "stars": 11683,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -3158,7 +3158,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T13:04:05.846Z",
+    "last_updated": "2026-11-27T13:01:44.276Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome projects, libraries, tools, etc. related to InfluxDB",
@@ -3170,7 +3170,7 @@
       "open_issues": 7,
       "owner": "mark-rushakoff",
       "repo": "awesome-influxdb",
-      "stars": 820,
+      "stars": 819,
       "topics": [
         "awesome",
         "awesome-list",
